@@ -1,90 +1,123 @@
-Naturtyp
-Sandbankar
-Estuarier
-Blottade ler- och sandbottnar
-Laguner
-Vikar och sund
-Rev
-Bubbelstrukturer
-Driftvallar
-Sten och grusvallar
-Havsklippor
-Glasörtstränder
-Salta strandängar
-Åsöar i Östersjön
-Skär i Östersjön
-Strandängar vid Östersjön
-Sandstränder vid Östersjön
-Smala Östersjövikar
-Fördyner
-Vita dyner
-Grå dyner
-Risdyner
-Sandvidedyner
-Trädklädda dyner
-Dynvåtmarker
-Rissandhedar
-Grässandhedar
-Näringsfattiga slättssjöar
-Ävjestrandsjöar
-Kransalgssjöar
-Naturligt näringsrika sjöar
-Myrsjöar
-Större Vattendrag
-Alpina vattendrag
-Mindre Vattendrag
-Fukthedar
-Torra hedar
-Alpina rishedar
-Alpina videbuskmarker
-Enbuskmarker
-Basiska berghällar
-Sandstäpp
-Alpina silikatgräsmarker
-Alpina kalkgräsmarker
-Kalkgräsmarker
-Stagg-gräsmarker
-Silikatgräsmarker
-Alvar
-Fuktängar
-Högörtängar
-Svämängar
-Slåtterängar i låglandet
-Höglänta slåtterängar
-Lövängar
-Högmossar
-Degenererade högmossar
-Terrängtäckande mossar
-Öppna mossar och kärr
-Källor och källkärr
-Agkärr
-Kalktuffkällor
-Rikkärr
-Alpina översilningskärr
-Apamyrar
-Palsmyrar
-Silikatrasmarker
-Kalkrasmarker
-Kalkbranter
-Silikatbranter
-Hällmarkstorräng
-Karsthällmarker
-Grottor
-Havsgrottor
-Glaciärer
-Taiga
-Nordlig ädellövskog
-Landhöjningsskog
-Fjällbjörkskog
-Näringsrik granskog
-Åsbarrskog
-Trädklädd betesmark
-Lövsumpskog
-Näringsfattig bokskog
-Näringsrik bokskog
-Näringsrik ekskog
-Ädellövskog i branter
-Näringsfattig ekskog
-Skogsbevuxen myr
-Svämlövskog
-Svämädellövskog
+naturtyp
+sandbank
+estuarium
+sandbotten
+lerbotten
+blottade ler- och sandbotten
+lagun
+vik
+sund
+rev
+bubbelstruktur
+driftvall
+stenvall 
+grusvall
+havsklippa
+strand
+glasörtstrand
+salta strandäng
+ö
+åsö
+skär
+strandäng
+smala östersjövik
+dyn
+fördyn
+vita dyn
+grå dyn
+risdyner
+sandvidedyn
+trädklädda dyn
+dynvåtmark
+hed
+rissandhed
+grässandhedar
+sjö
+slättssjö
+näringsfattiga slättssjöar
+ävjestrandsjö
+kransalgssjö
+näringsrika sjö
+näringsrik sjö
+naturligt näringsrika sjö
+myrsjö
+vattendrag
+större vattendrag
+alpina vattendrag
+mindre vattendrag
+fukthed
+torra hed
+alpina rished
+alpina videbuskmark
+enbuskmark
+berghäll
+basiska berghäll
+sandstäpp
+mark
+gräsmark
+silikatgräsmark
+alpina silikatgräsmark
+alpina kalkgräsmark
+kalkgräsmark
+stagg-gräsmark
+alv
+älv
+äng
+fuktäng
+högörtäng
+svämäng
+lågland
+slåtteräng
+slåtterängar i lågland
+höglänta slåtteräng
+löväng
+mossa
+högmossa
+degenererade högmossa
+terrängtäckande mossa
+kärr
+öppna mossa
+källa
+källkärr
+agkärr
+kalktuffkälla
+rikkärr
+alpina översilningskärr
+myr
+apamyr
+palsmyr
+silikatrasmark
+kalkrasmark
+brant
+kalkbrant
+silikatbrant
+hällmarkstorräng
+karsthällmark
+grotta
+havsgrotta
+glaciär
+taiga
+skog
+lövskog
+ädellövskog
+nordlig ädellövskog
+landhöjningsskog
+björkskog
+fjällbjörkskog
+granskog
+näringsrik granskog
+barrskog
+åsbarrskog
+betesmark
+trädklädd betesmark
+lövsumpskog
+bokskog
+näringsfattig bokskog
+näringsrik bokskog
+ekskog
+näringsrik ekskog
+ädellövskog i brant
+näringsfattig ekskog
+skogsbevuxen myr
+svämlövskog
+svämädellövskog
