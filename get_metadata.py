@@ -34,10 +34,10 @@ def get_metadata(dark_id, headers):
     http = PoolManager(cert_reqs='CERT_NONE')
     kblab.VERIFY_CA=False
     try:
-        print(f"trying https://betalab.kb.se/{dark_id}/meta.json")
+        print(f"trying https://datalab.kb.se/{dark_id}/meta.json")
         meta_json = http.request(
             "GET",
-            f"https://betalab.kb.se/{dark_id}/meta.json",
+            f"https://datalab.kb.se/{dark_id}/meta.json",
             headers=headers,
             retries=Retry(connect=5, read=4, redirect=5, backoff_factor=0.02),
         )
@@ -56,15 +56,18 @@ def get_metadata(dark_id, headers):
 
 
 if __name__ == "__main__":
+    year = "2010"
+    decade = year[:-1]
     print("START")
     kblab.VERIFY_CA=False
 
-    with open('Exjobb/api_cred', 'r') as file:
+    with open('api_cred', 'r') as file:
         pw = file.read().replace('\n', '')
 
-    a = Archive("https://betalab.kb.se/", auth=("demo", pw))
+    a = Archive("https://datalab.kb.se/", auth=("demo", pw))
 
-    dark_ids = a.search(f'tags: "issue" (label:"DAGENS NYHETER" or label:"AFTONBLADET" or label:"Svenska dagbladet") meta.created: (1900 or 1901 or 1902 or 1903 or 1904)')
+    print(f"""tags: "issue" (label:"DAGENS NYHETER" or label:"AFTONBLADET" or label:"Svenska dagbladet") meta.created: ({year} or {decade}1 or {decade}2 or {decade}3 or {decade}4 or {decade}5 or {decade}6 or {decade}7 or {decade}8 or {decade}9)""")
+    dark_ids = a.search(f"""tags: "issue" (label:"DAGENS NYHETER" or label:"AFTONBLADET" or label:"Svenska dagbladet") meta.created: ({year} or {decade}1 or {decade}2 or {decade}3 or {decade}4 or {decade}5 or {decade}6 or {decade}7 or {decade}8 or {decade}9 or 2020)""")
     #dark_ids = [dark_id for dark_id in a]
 
     headers = make_headers(basic_auth=f"demo:{pw}")
@@ -86,10 +89,10 @@ if __name__ == "__main__":
     df_meta = df_meta[~df_meta["issue"].isna()]  # Remove ids that aren't newspapers
     df_meta = df_meta.reset_index(drop=True)
 
-    df_meta.to_feather("data/all_metadata.feather", compression=None)
+    df_meta.to_feather(f"data/all_metadata_{year}s.feather", compression=None)
 
-    df: DataFrame = pd.read_feather("data/all_metadata.feather")
+    df: DataFrame = pd.read_feather(f"data/all_metadata_{year}s.feather")
     df = df.sample(n=200, random_state=1)
 
     df = df.reset_index(drop=True)
-    df.to_feather("data/sampled_editions.feather")
+    df.to_feather(f"data/sampled_editions_{year}s.feather")

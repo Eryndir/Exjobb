@@ -12,14 +12,14 @@ kblab.VERIFY_CA=False
 
 
 def get_content(dark_id, backoff_factor=0.1):
-    with open('Exjobb/api_cred', 'r') as file:
+    with open('api_cred', 'r') as file:
         pw = file.read().replace('\n', '')
 
     for i in range(5):
         backoff_time = backoff_factor * (2 ** i)
 
         content_structure = requests.get(
-            f"https://betalab.kb.se/{dark_id}/content.json", auth=HTTPBasicAuth("demo", pw), verify=False
+            f"https://datalab.kb.se/{dark_id}/content.json", auth=HTTPBasicAuth("demo", pw), verify=False
         )
 
         if content_structure.status_code == 200:
@@ -40,8 +40,9 @@ def get_content(dark_id, backoff_factor=0.1):
 
 
 if __name__ == "__main__":
+    year = 2000
     start = time.time()
-    df = pd.read_feather("data/all_metadata.feather")
+    df = pd.read_feather(f"data/all_metadata_{year}s.feather")
     pool = multiprocessing.Pool()
 
     content = pool.starmap(
@@ -58,13 +59,13 @@ if __name__ == "__main__":
     
     df2 = pd.DataFrame(res)
 
-    df2.to_feather("data/df_justcontent.feather")
+    df2.to_feather(f"data/df_justcontent_{year}s.feather")
 
     #df_content = df_content.reset_index(drop=False)
 
     df_content = pd.merge(df2, df[["dark_id", "title", "created"]], how="left")
     #df_content = df_content.rename(columns={"created": "date"})
-    df_content.to_feather("data/df_content.feather")
+    df_content.to_feather(f"data/df_content_{year}s.feather")
     end = time.time()
     print(end-start)
 
