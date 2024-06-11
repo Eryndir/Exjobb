@@ -42,6 +42,9 @@ def text_to_idx(words):
   return wordPos, wordCount
 
 def getDeclension(word):
+  if word[-2:] == "ås":
+    root = word[:-2]
+    return [word, f"{word}en", f"{root}äss", f"{root}ässen"]
   if word[-2:] == "tt" or word[-2:] == "st":
     root = word[:-1]
     return [word, f"{word}en", f"{word}ar", f"{word}arna"]
@@ -135,6 +138,7 @@ def getDeclension(word):
     root = word
     return [word, f"{root}en", f"{root}ar", f"{root}arna"]
 
+
 def addWords(word, onlyDeclension = True): 
     global wordChecklist
     if onlyDeclension:
@@ -193,6 +197,8 @@ def getWordCooccurenceAndSentiment(word):
     lhs, bird, rhs = textBlock.partition(word)
     window = lhs.split()[-n:] + rhs.split()[:n]
     sentimentWindow = " ".join(lhs.split()[-n:] + [bird] + rhs.split()[:n])
+    if len(sentimentWindow) > 256:
+      sentimentWindow = lhs[-128:] + bird + rhs[128:]
     textSentiment = sentiment(sentimentWindow)[0]["label"]
     sentimentByYear[year].append(textSentiment)
     birdWords = list(filter(None, window))
@@ -262,7 +268,6 @@ if __name__ == '__main__':
   birds = pd.read_csv(f"/data/birdNewsData/birds2.csv", header=0)
   birds = pd.read_csv("birds2.csv", header=0)
   logging.info("Loaded in the data")
-  quit()
 
   ner = pipeline('ner', model='KB/bert-base-swedish-cased-ner', tokenizer='KB/bert-base-swedish-cased-ner')
   pos = pipeline("token-classification", model="KBLab/bert-base-swedish-cased-pos", tokenizer="KBLab/bert-base-swedish-cased-pos")
@@ -282,40 +287,40 @@ if __name__ == '__main__':
     sentimentMatrix = {}
     for bd in birds_dec:
       logging.info(f"Start co and sen for {bd}")
-      coWord, senWord = getWordCooccurenceAndSentiment(bd)
-      if specificbird in cooccurenceMatrix:
-          co = cooccurenceMatrix[specificbird]
-          cooccurenceMatrix[specificbird] = mergeCoocs(co, coWord)
-      else:
-          cooccurenceMatrix[specificbird] = coWord
+      try:
+        coWord, senWord = getWordCooccurenceAndSentiment(bd)
+        if specificbird in cooccurenceMatrix:
+            co = cooccurenceMatrix[specificbird]
+            cooccurenceMatrix[specificbird] = mergeCoocs(co, coWord)
+        else:
+            cooccurenceMatrix[specificbird] = coWord
 
-      if specificbird in sentimentMatrix:
-          se = sentimentMatrix[specificbird]
-          sentimentMatrix[specificbird] = mergeSentiment(se, senWord)
-      else:
-          sentimentMatrix[specificbird] = senWord
+        if specificbird in sentimentMatrix:
+            se = sentimentMatrix[specificbird]
+            sentimentMatrix[specificbird] = mergeSentiment(se, senWord)
+        else:
+            sentimentMatrix[specificbird] = senWord
+      except:
+        logging.info(f"Abandoned co and sen for {bd}, not found in index")
       logging.info(f"Done co and sen for {bd}")
     
-    pd.DataFrame.from_dict(cooccurenceMatrix[specificbird]).to_feather(f"/data/birdNewsData/birdFreq/df_co_{years[0]}s_{specificbird}.feather")
-    specificSentiment = sentimentMatrix[specificbird]
-    tmp = {}
-    for y in years:
-        yearlySentiment = specificSentiment[str(y)]
-        countNegative = yearlySentiment.count("NEGATIVE")
-        countPositive = yearlySentiment.count("POSITIVE")
-        CountNeutral = yearlySentiment.count("NEUTRAL")
-        tmp[y] = {"Positive": countPositive,"Neutral":CountNeutral, "Negative" : countNegative}
-    pd.DataFrame.from_dict(tmp).to_feather(f"/data/birdNewsData/birdFreq/df_sen_{years[0]}s_{specificbird}.feather")
+    try:
+      pd.DataFrame.from_dict(cooccurenceMatrix[specificbird]).to_feather(f"/data/birdNewsData/birdFreq/df_co_{years[0]}s_{specificbird}.feather")
+      logging.info(f"Written to file /data/birdNewsData/birdFreq/df_co_{years[0]}s_{specificbird}.feather")
+      specificSentiment = sentimentMatrix[specificbird]
+      tmp = {}
+      for y in years:
+          yearlySentiment = specificSentiment[str(y)]
+          countNegative = yearlySentiment.count("NEGATIVE")
+          countPositive = yearlySentiment.count("POSITIVE")
+          CountNeutral = yearlySentiment.count("NEUTRAL")
+          tmp[y] = {"Positive": countPositive,"Neutral":CountNeutral, "Negative" : countNegative}
+      pd.DataFrame.from_dict(tmp).to_feather(f"/data/birdNewsData/birdFreq/df_sen_{years[0]}s_{specificbird}.feather")
+      logging.info(f"Written to file /data/birdNewsData/birdFreq/df_sen_{years[0]}s_{specificbird}.feather")
 
-    coWordsPerBird = getCoWordsCount(specificbird)
-    df_coCount = pd.DataFrame.from_dict(coWordsPerBird, orient="index", columns=years)
-    df_coCount.to_feather(f"/data/birdNewsData/birdFreq/df_coWord_{years[0]}s_fågel.feather")
-
-
-
-        
-
-
-
-        
-    
+      coWordsPerBird = getCoWordsCount(specificbird)
+      df_coCount = pd.DataFrame.from_dict(coWordsPerBird, orient="index", columns=years)
+      df_coCount.to_feather(f"/data/birdNewsData/birdFreq/df_coWord_{years[0]}s_{specificbird}.feather")
+      logging.info(f"Written to file /data/birdNewsData/birdFreq/df_coWord_{years[0]}s_{specificbird}.feather")
+    except:
+      logging.info(f"{specificbird} not found in decade")
