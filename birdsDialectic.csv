@@ -1,10 +1,13 @@
-altNamn,namn
+namn,riktigaNamn
 ackspett,hackspett
 adfågel,åd(a)
 aftonfalk,aftonfalk
 aftonfågel,taltrast
 aikamies,tofsmes
-ain(a)snejpa(-e),morkulla
+ainsnejpa,morkulla
+ainsnejpe,morkulla
+ainasnejpa,morkulla
+ainasnejpae,morkulla
 aiterhyna,ljungpipare
 aiv,uv
 akarnaskrika,nötskrika
@@ -12,8 +15,10 @@ akorreka,kornknarr
 al,alfågel
 al,storlom
 ala,sädesärla
-al(a)sjå(o)ra,skata
-al(a)sjå(o)ra,strandskata
+alsjåra,skata
+alsjåora,skata
+alasjåra,skata
+alasjåora,strandskata
 grå albatross,gulnäbbad
 grå albatross,grönnäbbad
 grå albatross,gulnäbbad
@@ -31,7 +36,9 @@ albrok,strandskata
 albräcka,strandskata
 albräckt,strandskata
 aldersparv,gråsiska
-ald(u)skrejka (ollon-),nötskrika
+aldskrejka,nötskrika
+alduskrejka,nötskrika
+ollonskrejka,nötskrika
 alfett,strandskata
 alfit,skärfläcka
 alfläkt,strandskata
@@ -50,8 +57,10 @@ alkekung,alkekung
 alkiska ale-,alsiska
 alkraka,ålkråka
 alkäring,alfågel
-all(a),alfågel
-allall(e),alfågel
+all,alfågel
+alla,alfågel
+allall,alfågel
+allalle,alfågel
 allamutta,alfågel
 alle,alfågel
 allenskrika,ålskrika
@@ -62,7 +71,8 @@ allkäring,alfågel
 allo,alfågel
 allopa,gråsiska
 alloppa,gråsiska
-al(l)pese,alfågel
+allpese,alfågel
+alpese,alfågel
 alludd,alfågel
 allverik,strandskata
 allvrhyna,alvarhöna
@@ -77,8 +87,9 @@ alsiska,gråsiska
 alskjora,nötskrika
 alskogssparv,gråsiska
 alskrika,nötskrika
-alskräckja (ale-),gråsiska
-alskräckja (ale-),nötskrika
+alskräckja,gråsiska
+aleskräckja,gråsiska
+alskräckja,nötskrika
 alsparv,gråsiska
 altita,mes
 altrast,rödvinge
@@ -90,7 +101,8 @@ alvarhöna,ljungpipare
 alvarhöna,större strandpipare
 alvigg,strandskata
 alviggel,strandskata
-alvrick(el),strandskata
+alvrickel,strandskata
+alvrick,strandskata
 alvräkel,strandskata
 Amhersts fasan,fasan
 and,gräsand
@@ -98,7 +110,8 @@ grimmad and,bergand
 rödgul and,rostand
 Stellers and,alförrädare
 and,turkisk and
-and(d)rake,and
+andrake,and
+anddrake,and
 andgubbe,and
 andhök,duvhök
 andi,gräsand
@@ -110,20 +123,21 @@ ankbonde,tamand
 ankdrake,anka
 ankesgubbe,anka
 ard,småskrake
-ardasparr (-sparv),steglitsa
-ardasparr (-sparv),gråsiska
+ardasparv,steglitsa
+ardasparr,gråsiska
 arderspärv,gråsiska
 arla,sädesärla
-arn (åm),örn
+arn,örn
+åm,örn
 arnaglada,örnglada
-art (-a),kricka
-art (-a),årta
+art,kricka
+arta,årta
 artknörel artes,kricka
 artknörel artes,årta
 artokarl,kricka
 artokarl,årta
-arrt(e),kricka
-arrt(e),årta
+arrt,kricka
+arrte,årta
 asfågel,asgam
 asgam,asgam
 augustisnäppa,myrspov
@@ -176,7 +190,8 @@ bergulv,berguv
 berguv,berguv
 bivråk,bivråk
 biätare,biätare
-bjena (-u),orrhöna
+bjena,orrhöna
+bjenau,orrhöna
 bjuggbit,kornknarr
 björkdrossel,björktrast
 björkfink,bofink
@@ -209,7 +224,8 @@ blistergås,fjällgås
 blisterhök,duvhök
 blistersvärta,sjöorre
 blåand,knipa
-blådu(v)a,skogsduva
+blådua,skogsduva
+blåduva,skogsduva
 blåfot,grönlandsfalk
 blåfot,fiskgjuse
 blågås,snögås
@@ -217,7 +233,7 @@ blåhake,blåhakesångare
 blåhake,Mellaneuropas blåhake
 blåhake,norsk blåhake
 blåhake,vitstjärnig blåhake
-blåhakesångare 73
+blåhakesångare,blåhakesångare
 blåhals,gräsand
 blåhane,blåhakesångare
 blåkråka,blåkråka
@@ -230,7 +246,8 @@ blåskättu,nötskrika
 blåspett,nötväcka
 blåspit,nötväcka
 blåärla,sädesärla
-bläcka (-e),tofsvipa
+bläcka,tofsvipa
+bläcke,tofsvipa
 bläsa,bläsand
 bläsand,bläsand
 bläsgås,bläsgås
@@ -240,7 +257,8 @@ bofink,bofink
 bomfalk,bomfalk 
 bondorre,kråka
 bonnorre,kråka
-borgmästare(mås),vittrut
+borgmästaremås,vittrut
+borgmästare,vittrut
 braminand,rostand
 brandgås,gravand
 brandgås,prutgås
@@ -266,10 +284,11 @@ liten brunrock,bläsand;
 liten brunrock,småvadare
 brunta,brunand
 brushane,brushane
-bråt-teta (-tita),brotateta
+bråt-teta,brotateta
+bråt-tita,brotateta
 bråttomfågel,grå flugsnappare
-bräkbock (bräkar-),enkelbeckasin
-bräkbock (bräkar-),nattskärra
+bräkarbock ,enkelbeckasin
+bräkbock,nattskärra
 bräkfågel,bergfink
 bräksparv,bergfink
 brätjabottjen,bräkbock
@@ -306,12 +325,14 @@ dagavetering,tupp
 dagaveterning,tupp
 dalarölots,smålom
 dalmoripa,dalmoripa
-dalripa (-rypa)msnöripa
+dalripa,snöripa
+dalrypa,snöripa
 dalrip-orre,dalrip-orre
 dammsnäppa,dammsnäppa
 dilaskarv,storskarv
 dipping,storskrake
-domherr(e),domherr(e)
+domherr,domherr(e)
+domherre,domherr(e)
 dompapp,domherr(e)
 domsmock,domherre
 donare,knipa
@@ -333,13 +354,15 @@ Dougalls tärna,tärna
 drakemgräsand
 draresp,morkulla
 drillsnäppa,drillsnäppa
-drip (dryp),hackspett
+drip,hackspett
+dryp,hackspett
 droksel,björktrast
-droppasparr (-sparv),gransångare
-droppasparr (-sparv),ortolansparv
+droppasparr,gransångare
+droppasparv,ortolansparv
 rosenfärgad drossel,rosenstare
 drottning Kerstis kråka,kråka
-dryp (drip),spett
+dryp,spett
+drip,spett
 drypkråka,spillkråka
 dubbelbeckasin,dubbelbeckasin
 dubbelbeckasin,ljungpipare
@@ -355,11 +378,14 @@ dumjöns,tallbit
 dumskalle,tallbit
 dumsnut,domherre
 dumsnut,tallbit
-duva (-o),koll
-duva (-o),ringduva
-duva (-o),skogsduva
-bredstjärtad duva (-o) bredstjärtad,klippduva
-fjösbent duva(o),klippduva
+duva,koll
+duvo,koll
+duva,ringduva
+duva,skogsduva
+bredstjärtad duva, bredstjärtad klippduva
+bredstjärtad duvo, bredstjärtad klippduva
+fjösbent duvo,klippduva
+fjösbent duva,klippduva
 duvhök,duvhök
 rysk duvhök,rysk duvhök
 sydlig duvhök,sydlig duvhök
@@ -372,7 +398,8 @@ dvärglira,dvärglira
 dvärglommindre strandpipare
 dvärgmås,dvärgmås
 dvärgpytta,mosnäppa
-dvärgrördrom (-drum),dvärgrördrom (-drum)
+dvärgrördrom,dvärgrördrom (-drum)
+dvärgrördrum,dvärgrördrom (-drum)
 dvärgskarv,dvärgskarv
 dvärgsparv,dvärgsparv
 dvärgsumphöna,dvärgsumphöna
@@ -385,7 +412,8 @@ rödhalsad dykand,brunand
 rödhuvad dykand,rödhuvad dykand
 vitögad dykand,rövitögaddhuvad dykand
 dykarestormsvala,mindre lira
-dylp-ånn (-and),årta
+dylp-ånn,årta
+dylp-and,årta
 dyngkråka,kråka
 dyngkråka,nötskrika
 dyngsparv,gråsparv
@@ -461,11 +489,14 @@ fiskejute,fiskgjuse
 fiskfirra,nattskärra
 fiskfågel,storskarv
 fiskgjud,spetsstjärtad labb
-fiskgju(de)r,spetsstjärtad labb
+fiskgjur,spetsstjärtad labb
+fiskgjuder,spetsstjärtad labb
 fiskgjusa,fiskgjuse
 fiskgjusa,fiskmås
 fiskgjuse,fiskgjuse
-fiskglada (-gläda -glöda),fiskgjuse
+fiskglada,fiskgjuse
+fiskläda,fiskgjuse
+fiskglöda,fiskgjuse
 fiskglöd,fiskgjuse
 fiskgös,fiskgjuse
 fiskhök,fiskgjuse
@@ -480,8 +511,9 @@ fisklita,roskarl
 fiskmåg,fiskmås
 fiskmåke,fiskmås
 fiskmåns,fiskmås
-fiskmås(-a -e),fiskmås(-a -e)
-fiskmås(-a -e),dvärgmås
+fiskmåsa,fiskmås(-a -e)
+fiskmåse,dvärgmås
+fiskmås,dvärgmås
 fisknåpa,havstrut
 fiskpicke,tobisgrissla
 fiskspännare,fiskgjuse
@@ -491,7 +523,8 @@ fisktjuv,mås
 fisktärna,fisktärna
 fisktärna,dvärgmås
 fiskörn,fiskgjuse
-fisstj(e)snipa,drillsnäppa
+fisstjesnipa,drillsnäppa
+fisstjsnipa,drillsnäppa
 fjorna,skäggdopping
 fjorna,svarthakedopping
 fjåna,svarthakedopping
@@ -519,7 +552,8 @@ fjällvipa,fjällpipare
 fjällvråk,fjällvråk
 fjällärka,berglärka
 fjära,tjäder
-fjärhan(e),tjädertupp
+fjärhan,tjädertupp
+fjärhane,tjädertupp
 fjärhöna,tjäderhöna
 fjärtupp,tjädertupp
 fjärurr,tjädertupp
@@ -557,7 +591,8 @@ forssparv,forsskjuro
 forsspink,forsskjuro
 fruntdocka,skäggdopping
 fruntnacka,skäggdopping
-furubläddra (-o),lavskrika
+furubläddra,lavskrika
+furubläddro,lavskrika
 furufladdra,lavskrika
 furulaus,trädkrypare
 furulus,rödstjärt
@@ -570,7 +605,9 @@ fåvitta,rödspov
 fältlärka,fältpiplärka
 fältpiplärka,fältpiplärka
 fältsparv,pilfink
-fögelkarl (-kå(r)l),sjöfågel
+fögelkarl,sjöfågel
+fögelkål,sjöfågel
+fögelkårl,sjöfågel
 gadegrim,sädesärla
 gagel,prutgås
 fint gagel,prutgås
@@ -578,13 +615,16 @@ grovt gagel,grågås
 gagel-gås,prutgås
 galdust,alfågel
 gale,nattergale
-gal(l)höna,översomrande alfågelhona utan ungar
-gal(l)åda,översomrande ejderhona utan ungar
+galhöna,översomrande alfågelhona utan ungar
+gallhöna,översomrande alfågelhona utan ungar
+galåda,översomrande ejderhona utan ungar
+gallåda,översomrande ejderhona utan ungar
 gam,gam
 gaptrast,björktrast
 garfågel,garfågel
 garspe,järpe
-gase (gasse),simfåglar
+gase,simfåglar
+gasse,simfåglar
 gast,berguv
 gasteruggla,berguv
 gatevippa,sädesärla
@@ -606,11 +646,11 @@ gjaus-pejnare,gjuspinare
 gjud,fiskmås 
 gjud,spetsstjärtad labb
 gjud,fiskgjud
-gjusa (-e),fiskgjuse
-gjusa (-e),fiskmås
-gjusa (-e),gråtrut
-gjusa (-e),havstrut
-gjusa (-e),sillmås
+gjusa,fiskgjuse
+gjusa,fiskmås
+gjusa,gråtrut
+gjusa,havstrut
+gjuse,sillmås
 gjuspinare,spetsstjärtad labb
 gjusrok,ung sillmås;
 gjusrok,rok
@@ -628,7 +668,8 @@ glasögonstarik,starik
 glavu,dvärgmås
 glib,strandskata
 glib,fisktärna
-glip(a),strandskata
+glip,strandskata
+glipa,strandskata
 glop,ung tjädertupp
 glottertrast,björktrast
 glutt,gluttsnäppa
@@ -643,7 +684,8 @@ gola pititjitto,gulärla
 golasparv,gulsparv
 golatjitto,gulsparv
 golatjittsparv,gulsparv
-golkvärn (gole-),kaja
+golkvärn,kaja
+golekvärn,kaja
 granbäss-sparv,korsnäbb
 granfågel,gransångare
 granjärpe,snäppa
@@ -661,7 +703,9 @@ sibirisk gransångare,sibirisk gransångare
 sydväst europeisk,sydväst europeisk
 grantolk,taltrast
 gra-skräcka,tobisgrissla
-grågraut(e)l (grautle),tobisgrissla
+grågrautel,tobisgrissla
+grågrautl,tobisgrissla
+grågrautle,tobisgrissla
 gravajling,kråka
 gravand,gravand
 rödgul gravand,rostand
@@ -670,8 +714,8 @@ grejmsvärti,svärta
 gresla,tobisgrissla
 gridelinstare,stare
 grill,större strandpipare
-grilla (-e),större strandpipare 
-grilla (-e),tobisgrissla
+grille,större strandpipare 
+grilla,tobisgrissla
 grimgås,vitkindad gås
 grimgäss,vitkindad gås
 grimsvärta,svärta
@@ -696,7 +740,8 @@ grulla,större strandpipare
 grulle,vattenrall
 gruul,rödbena
 gryll,större strandpipare
-grylla (-e),tobisgrissla
+grylla,tobisgrissla
+grylle,tobisgrissla
 gryllokarl,tobisgrissla
 gryyl,tobisgrissla
 gråand,bläsand
@@ -728,8 +773,10 @@ gråklera,taltrast
 gråklädra,taltrast
 gråknipa,knipa
 gråkunt,gråsparv
-gråkäla (-köla),grönsiska
-gråla (gräla),vanlig glada
+gråkäla,grönsiska
+gråla,vanlig glada
+gråköla,grönsiska
+gräla,vanlig glada
 grålom,smålom
 gråluns,gråsparv
 gråmas,gråsparv
@@ -739,7 +786,8 @@ gråmes,nordisk mes
 gråmås,gråtrut
 liten gråmåve,fiskmås
 stor gråmåve,gråtrut
-gråorr(e),orrhöna
+gråorr,orrhöna
+gråorre,orrhöna
 gråpys,gråsparv
 gråpys,pilfink
 gråschas,pilfink
@@ -807,9 +855,9 @@ gräk,bergfink
 gräla,gråla
 gränbäss-sparv,mindre korsnäbb
 gränfågel,gransångare
-gränskrika (-o),lavskrika
-gränskrika (-o),nötskrika
-gränsvärta (-o),kråka
+gränskrika,lavskrika
+gränskrika,nötskrika
+gränsvärto,kråka
 gräntrast,björktrast
 gräsand,gräsand
 gräsand,kornknarr
@@ -839,7 +887,8 @@ grönlandsfalk,grönlandsfalk
 grönlandsripa,grönlandsripa
 grönling,grönfink
 grönolja,gröngölja
-grönsiska (-syska),grönsiska (-syska)
+grönsiska,grönsiska (-syska)
+grönsyska,grönsiska (-syska)
 grönsisko,grönsiska (-syska)
 grönspett,gröngöling
 gråhövdad grönspett,gråspett
@@ -853,8 +902,10 @@ grötla,tobisgrissla
 gubbe,sjöfåglar
 guck,gök
 gucku,gök
-gud(d)ing,ejder
-gudung(e),ejder
+gudding,ejder
+guding,ejder
+gudunge,ejder
+gudung,ejder
 gularia,-ärla
 gulbrösta,bastardnäktergal
 guldfasan,fasan
@@ -927,7 +978,8 @@ Vitalis gås,ejder
 vitkindad gås,vitkindad gås
 vitpannad gås,bläsgås
 gåsgam,gåsgam
-gås(e)karl,gås
+gåsekarl,gås
+gåskarl,gås
 gäddfres,bergfink
 gäddfräs,bergfink
 gäddfröken,strömstare
@@ -942,12 +994,17 @@ gärspgubbe -höna -kanke,järpe
 göckpiig,gökpiga
 gök,gök
 amerikansk gök,amerikansk gök
-gök(a)hora,amerikansk gök
+gökhora,amerikansk gök
+gökahora,amerikansk gök
 gökdräng,amerikansk gök
 gökpiga,amerikansk gök
 göksmed,taltrast
 gökspärring,gök (»förvandlad»)
-göktit(a)(-teta) (-tät(a)),gök
+göktit,gök
+göktita,gök
+gökteta,gök
+göktät,gök
+göktäta,gök
 göktyta,göktyta
 göling,gröngöling
 gölkukerella,gulärla
@@ -1017,12 +1074,15 @@ harfång,kattuggla
 harhök,duvhök
 harlekinsand,strömand
 harlekinsnäppa,svartsnäppa
-harpoppla (-popplo -påpplu -pöpplo),pärluggla
+harpoppla,pärluggla
+harpopplo,pärluggla
+harpåpplu,pärluggla
+harpöpplo,pärluggla
 hartin,skäggdopping
-haruggla (hare-),berguv
-haruggla (hare-),fjälluggla
-haruggla (hare-),hornuggla
-haruggla (hare-),kattuggla
+haruggla,berguv
+hareuggla,fjälluggla
+haruggla,hornuggla
+haruggla,kattuggla
 hasehök,duvhök
 haseuggla,berguv
 hasselgök,härfågel
@@ -1056,15 +1116,11 @@ havslabb,storlabb
 havslom,(små)lom
 havslöpare,havslöpare
 havsmåka,havstrut
-
-
-
-
-
-
 havsmås,havstrut
-havsorr(e),sjöorre
-havs(s)ula,havs(s)ula
+havsorr,sjöorre
+havsorre,sjöorre
+havsula,havs(s)ula
+havssula,havs(s)ula
 havssvärta,svärta
 havstjäder,storskarv
 havstrut,havstrut
@@ -1077,7 +1133,8 @@ hedhöna,ljungpipare
 helgolandsgrissla,se under sillgrissla
 helsing,se hälsing
 hemduva,se under klippduva
-herrkråka (ärr-),kråka
+herrkråka,kråka
+ärrkråka,kråka
 himbryn,islom
 himlaget,enkelbeckasin
 himmelsget,enkelbeckasin
@@ -1095,14 +1152,16 @@ hornuv,hornuggla
 hornvipa,tofsvipa
 horsgök,enkelbeckasin
 horsgök,skogssnäppa(?)
-horsskraka (-e),skäggdopping (?)
-horsskraka (-e),storskrake
-horsskräck(j)a,skäggdopping (?)
+horsskraka,skäggdopping (?)
+horsskrake,storskrake
+horsskräcka,skäggdopping (?)
+horsskräckja,skäggdopping (?)
 horsskräxa,skäggdopping (?)
 horsskräxa,knipa
 horsskräxa,storskrake
 hrossagaukr,se horsgök
-hugg(u)spit,(större) hackspett
+huggspit,(större) hackspett
+hugguspit,(större) hackspett
 hulkråk,spillkråka
 hultaduva,skogsduva
 hultadämpa,morkulla
@@ -1120,9 +1179,11 @@ husärla,sädesärla
 hvenspole,se vindspole
 hymber,islom
 hyna,sjöfågel
-håkerknärpa (-o),se åkerknärpa
+håkerknärpa,se åkerknärpa
+håkerknärpo,se åkerknärpa
 hålkråka,spillkråka
-hålskraka (-e),storskrake
+hålskraka,storskrake
+hålskrake,storskrake
 hålskrakstupp,storskrake
 hålskräcka,storskrake
 hålskräcksfågel,storskrake
@@ -1146,7 +1207,8 @@ hällspik,stare
 hälsing,ejderhane juv.
 hälsing,vitkindad gås
 hälsingbock,ejder
-hämplick(or),hämpling
+hämplick,hämpling
+hämplickor,hämpling
 hämpling,hämpling
 gulnäbbad hämpling,gulnäbbad hämpling
 hämpling,grönfink
@@ -1162,10 +1224,13 @@ häruggla,berguv
 häre,berguv
 häruggla,fjälluggla
 häre,fjälluggla
-häs(s)eluv,berguv
-häs(s)eluv,hornuggla
-häs(s)eluv,kattuggla
-häst(a)gnägg(j)are,enkelbeckasin
+hässeluv,berguv
+häseluv,hornuggla
+häseluv,kattuggla
+hästgnäggare,enkelbeckasin
+hästagnäggare,enkelbeckasin
+hästgnäggjare,enkelbeckasin
+hästagnäggjare,enkelbeckasin
 hästgnägg,enkelbeckasin
 hästlodand,kricka
 hättetärna,fisktärna
@@ -1237,21 +1302,24 @@ isstormfågel,stormfågel
 iste,tobisgrissla
 istrut,havstrut
 istärna,tärna
-is-åd(a),ejder
+is-åd,ejder
+is-åda,ejder
 isärla,sädesärla
 jakobin,se klippduva
 jaktfalk,jaktfalk
 mindre jaktfalk,pilgrimsfalk
 stor jaktfalk,jaktfalk
 sydgrönländsk jaktfalk,grönlandsfalk
-ta(r)tarisk jaktfalk,ta(r)tarisk jaktfalk
+tatarisk jaktfalk,ta(r)tarisk jaktfalk
+tartarisk jaktfalk,ta(r)tarisk jaktfalk
 vanlig jaktfalk,jaktfalk
 jaktfasan,se under fasan
 Jan van Gent,havssula
 jaugås,se jugås
 jena,orrhöna
 jordkrypa,lövsångare
-jordpytar(e),lövsångare
+jordpytare,lövsångare
+jordpytar,lövsångare
 jordskracka,småskrake
 jordsmula,gärdsmyg
 jordsmula,lövsångare
@@ -1262,10 +1330,12 @@ jordsväla,strandsvala
 jordtrast,kinesisk trast
 jorduggla,jorduggla
 jordäppleskrika,nötskrika
-jud(e),fiskgjuse
+jud,fiskgjuse
+jude,fiskgjuse
 jugås,gravand
 jungfrutrana,jungfrutrana
-jut(e),fiskgjuse
+jute,fiskgjuse
+jut,fiskgjuse
 jykpigo,se gökpiga
 jåulsmulu,se jordsmula
 järavärsspärv,snösparv
@@ -1273,14 +1343,17 @@ järnsparv,järnsparv
 järntrast,järntrast
 järp,se rapphöna
 järpa,se rapphöna
-järpe (gärspe),rapphöna
-
-
-järpgubbe (gärspgubbe),järpe
-järphöna (gärsphöna),järpe
+järpe,rapphöna
+gärspe,rapphöna
+järpgubbe,järpe
+gärspgubbe,järpe
+järphöna,järpe
+gärsphöna,järpe
 järpkall,järpe
-järpkanke (gärspkanke),järpe
-järpkäl(l)ing,järpe
+gärspkanke,järpe
+järpkanke,järpe
+järpkäling,järpe
+järpkälling,järpe
 järporre,järporre
 järsa,se röjsjärso
 kaakkuri,lom
@@ -1299,13 +1372,16 @@ kaja,tornsvala
 kaja,tärna
 Kajsa,kråka
 kakadora,lockord på papegoja
-kakar(e),lom
+kakar,lom
+kakare,lom
 kakari,lom
 kåkkor,lom
-kakkur(a),lom
+kakkur,lom
+kakkura,lom
 kakkuri,lom
 kalanderlärka,kalanderlärka
-kal(d)tuta,göktyta
+kaltuta,göktyta
+kaldtuta,göktyta
 kalenderlärka,kalenderlärka
 kalkon,kalkon
 mexikansk,se under kalkon
@@ -1314,17 +1390,20 @@ tam kalkon,se kalkon
 vild kalkon,se under kalkon
 kamgiding,praktejder
 kamgiding,salskrake
-kamguding(e),praktejder
+kamguding,praktejder
+kamgudinge,praktejder
 kamgudingsåd,praktejder
 kamgudunge,praktejder
 kamåda,praktejder
 kanadagås,kanadagås
-kanaljefågel (-fugel),kanariefågel
+kanaljefågel,kanariefågel
+kanaljefugel,kanariefågel
 kanariefågel kanariefågel
 finsk kanariefågel,grönfink
 svensk kanariefågel,grönfink.
 vild kanariefågel,vild kanariefågel
-kank(e) kångke,tupp (se bankivahöns)
+kanke kångke,tupp (se bankivahöns)
+kank kångke,tupp (se bankivahöns)
 kappherre,brushane
 Karin,lockord på tam kråka
 karl,sjöfågel
@@ -1349,7 +1428,7 @@ kiop,spetsstjärtad labb
 kirra,sidensvans
 kixkaja,fiskmås
 kivi,se under struts
-kjulbening,»beckasin»,
+kjulbening,»beckasin»
 se enkelbeckasin
 Klas,kaja (även lockord)
 klera,taltrast
@@ -1367,16 +1446,19 @@ klunsalka,lunnefågel
 klunsalka,tordmule
 kluns-Pär,lunnefågel
 stor klyyja,gluttsnäppa
-klåd(d)ra,taltrast
+klådra,taltrast
+klåddra,taltrast
 klåra,taltrast
-kläd(d)ra,taltrast
+klädra,taltrast
+kläddra,taltrast
 klä-vitt,kattuggla
 klävittuggla,kattuggla
 klödra,taltrast
 klövi,gluttsnäppa
 klövja,gluttsnäppa
 klövjefågel,rödbena
-(k)näkka,se naakka
+näkka,se naakka
+knäkka,se naakka
 knark,kornknarr
 knarkand,kornknarr
 knarksparv,kornknarr
@@ -1386,13 +1468,16 @@ knarsk,kornknarr
 knejpa,se knipa
 knerka,kornknarr
 knip,knipa (-o)
-knipa (-o),knipa (-o)
+knipa,knipa (-o)
+knipo,knipa (-o)
 isländsk knipa (-o),islandsknipa
 knipand,knipa
 knipand,kricka
 knip-ann,knipa
-knip(es)karl,knipa
-knipeskå(r)l,knipa
+knipeskarl,knipa
+knipkarl,knipa
+knipeskårl,knipa
+knipeskål,knipa
 knipgubbe,knipa
 knipkalle,knipa
 knipkäring,knipa
@@ -1410,15 +1495,18 @@ knulteduva,ringduva
 knutsvala,tornsvala
 knårtknispa,morkulla
 knäckfuggel,buskskvätta
-knärk(a),kornknarr
+knärk,kornknarr
+knärka,kornknarr
 knärpa,se åkerknärpa
 knölsvan,knölsvan
 kock,orre
 kohäger,kohäger
 kokhälla,gulärla
 kokopiga,se kucku-
-koksik(a),se koxika
-kokvitt(r)a,sädesärla
+koksik,se koxika
+koksika,se koxika
+kokvittra,sädesärla
+kokvitta,sädesärla
 kolkaij,stare
 kolkaja,stare
 kolli,svärta
@@ -1431,7 +1519,8 @@ korabaddjå,dalripa
 korf-,se korv
 kormoran,storskarv
 kornknark,kornknarr
-kornknarp(a),kornknarr
+kornknarpa,kornknarr
+kornknarp,kornknarr
 kornknarr,kornknarr
 kornknerk,kornknarr
 kornlärka,kornsparv
@@ -1453,8 +1542,8 @@ korthackare,mindre korsnäbb
 kortrumpa,hussvala
 korttåig lärka,se lärka
 korvteta,stjärtmes
-korvtjet(are),gulsparv
-korvtjet(are),nordisk mes
+korvtjet,gulsparv
+korvtjetare,nordisk mes
 korvtjetare,talgoxe
 kotkas,kungsörn
 kotkast,havsörn
@@ -1490,3 +1579,2573 @@ krullhöns,se under bankivahöns
 krums,mindre korsnäbb
 krums,större korsnäbb
 krumsnabel,mindre korsnäbb
+krushackspett,större hackspett
+kruslom,storlom
+kryckja,tretåig mås
+krypand,kricka
+kryssnäbb,mindre korsnäbb
+kryssnäbb,större korsnäbb
+kråka,kråka (-0)
+kråko,kråka (-0)
+drottning Kerstis kråko,blåkråka
+grå kråko,kråka
+spansk kråko,blåkråka
+svart kråko,svart kråka (-0)
+drottning Kerstis kråka,blåkråka
+grå kråka,kråka
+spansk kråka,blåkråka
+svart kråka,svart kråka (-0)
+kråkskarv,kråkskarv
+krååk,se kråka
+kräcka,kricka
+kräka,kornknarr
+kuckeliku,höns
+kucku,gök
+kuckufågel,gök
+kuckupiga,göktyta
+kuckupia,göktyta
+kuckurälla,sädesärla
+kudd-disk,rödstjärt
+kudd-diska,rödstjärt
+kuddo-disk,rödstjärt
+kukerella,sädesärla
+kulakraka,svart kråka
+kulla,morkulla
+kulpand,knipa
+kungsfasanm,kungsfasan
+kungsfiskare,kungsfiskare
+kungsfågel,kungsfågel
+brandkronad kungsfågel,brandkronad kungsfågel
+kungsglada,vanlig glada
+kungssvan,sångsvan
+kungsörn,kungsörn
+kunnare,gråsparv
+kunningknippe,mindre korsnäbb
+kunnspit,liten hackspett
+korbits,morkulla
+kurbits,morkulla
+kus(a),lavskrika
+kusa,lavskrika
+kusk,skäggdopping
+kustlabb,spetsstj ärtadlabb
+kustpipare,kustpipare
+kustpytta,kustsnäppa
+kustsnäppa,kustsnäppa
+kustvipa,kustpipare
+kustvipa,kustsnäppa
+kutgjusa,vittrut
+kutterduva,skogsduva
+kutterduva,större turturduva
+kuxik,»lyckofågel» sekoxika
+kvarntjuv,gråsparv
+kvejnda,($ av) sjöfågel
+kveträck,roskarl
+kvickstjärt,rödstjärt
+kvickstjärt,sädesärla
+kvidbonde,småspov
+kvidfågel,ormvråk
+kvidfågel,vanlig glada
+kvihök,fjällvråk
+kvihök,ormvråk
+kvinhök,fjällvråk
+kvint,bofink
+kvint,kungsfågel
+kvintan-sparv,bofink
+kvintande-sparv,bofink
+kvihök,ormvråk
+kvirhök,ormvråk
+kvånnskrajka,nötskrika
+kvånnskrajka,kornknarr
+kväkare,bergfink
+kvällgimra,enkelbeckasin
+kvällknispa,morkulla
+kvällknorr,morkulla
+kvällknårt,morkulla
+kvälls-skena,nattskärra
+kvärntyv,se korntjuv
+kvönn,kornknarr
+kyckling,se bankivahöns
+tjöckling,se bankivahöns
+kylbene,strandskata
+kylbening,drillsnäppa
+kyllare,grönbena
+kyllare,rödbena
+kyllbena,rödbena
+kyllra,rödbena
+kyrkduva,se under klippduva
+kyrkfalk,tornfalk
+kyrkhack,kaja
+kyrkiofalk,kyrkiofalk
+kyrkiouf,berguv
+kyrkkaja,kaja
+kyrkkråka,kaja
+kyrknaakka,kaja
+kyrksvala,tornsvala
+küster,(<$ av) alfågel
+kytare,rödbena
+kägelbit,tallbit
+kägelrivare,mindre korsnäbb
+kägelryivar,mindre korsnäbb
+kägelsparv,mindre korsnäbb
+käksik,björktrast
+käksiken,björktrast
+källgylta,morkulla
+källing,sjöfågelhona
+käring,sjöfågelhona
+kärling,sjöfågelhona
+kälspjärna,se tjäl-
+käringrock,nattskärra
+kärrdopping,svarthakedopping
+kärrgylta,nattskärra
+kärrgylta,morkulla
+blek kärrhök,blek kärrhök
+blå kärrhök,blå kärrhök
+brun kärrhök,brun kärrhök
+grå kärrhök,mindre kärrhök med halskrage
+liten kärrhök,mindre kärrhök
+mindre kärrhök,mindre kärrhök
+rostbrun kärrhök,brun kärrhök
+kärrhöna,småfläckig sumphöna
+egentlig kärrhöna,småfläckig sumphöna
+liten kärrhöna,liten sumphöna
+kärrmes,kärrmes
+kärrmäckra,enkelbeckasin
+kärrsnäppa,kärrsnäppa
+kärrsnäppa,grönbena
+ostsibirisk kärrsnäppa,
+Schinz’ kärrsnäppa,
+västsibirisk kärrsnäppa,
+kärrsångare,
+kärrtjetare,nordisk mes
+kärruggla,jorduggla
+kärrvipa,kärrsnäppa
+kätt,stenskvätta
+könntjuv,se korntjuv
+körfågel,alfågel
+körfågel,göktyta
+körfågel,storskrake
+körkarl,göktyta
+körkeduva,se kyrkduva
+körsp,se korp
+köster,(<$ av) alfågel
+kött-käkkling,gråsparv
+bredstjärtad labb,
+bredstjärtad labbe,
+långstjärtad labb,fjällabb
+långstjärtad labbe,fjällabb
+spetsstjärtad labb,spetsstjärtad labb
+spetsstjärtad labbe,spetsstjärtad labb
+vanlig labb,spetsstjärtad labb
+vanlig labbe,spetsstjärtad labb
+ladugårdssvala,hussvala
+ladugårdssvala,ladusvala
+ladusvala,
+östasiatisk ladusvala,östsibirisk rostgumpsvala
+lagel 1. lagl,sädgås
+lajricka,se leirike
+lalare,storlom
+langhale,sädesärla
+lantörn,kungsörn
+lappmes,
+lappskata,lavskrika
+lappskjåra (-skir),lavskrika
+lappskir,lavskrika
+lappsnäppa,myrspov
+lappsparv,
+lappuggla,
+lapsk mes,se lappmes
+larte,kricka
+lasvala,ladusvala
+latjoxa,lavskrika
+laverskrika,lavskrika
+lavhök,lavskrika
+lavkatta,lavskrika
+lavskjåra,lavskrika
+lavskrika,
+lavskrika,nötskrika
+lavtjykksa,lavskrika
+lavvick,lavskrika
+laxand,storskrake
+lederälla,sädesärla
+leffeland,skedand
+leirike,sånglärka
+lejlaskräcka,se under småskrake
+lenevärsbritta,se spillkråka
+lenväders-Britta,spillkråka
+lerbena,ljungpipare
+lerfågel,sädesärla
+lerhälla,sädesärla
+ler-Maja,sädesärla
+ler-Maja,kråka
+lerpipa,ljungpipare
+lerpyyt,ljungpipare
+lersvala,hussvala
+lersvala,strandsvala
+lertrana,ljungpipare
+lervätta,kricka
+ler-älla,stenskvätta (?)
+ler-ärla,sädesärla
+likuggla,kattuggla
+lilla Åke,kungsfågel
+lille brunrock,(kan beteckna en småvadarepå flyttning) bläsand
+lillget,svartmes
+lillklyvja,grönbena
+lillknipa,svart o. vit flugsnappare
+lillkricka,kricka
+lillmamma,lövsångare
+lillsvärta,sjöorre
+linknarr,nattskärra
+linkuckurella,se gulärla
+linkukerella,gulärla
+linstrickel,sädesärla
+linaria,gulärla
+linaria,sädesärla
+grå lira,
+liten lira,mindre lira
+mindre lira,
+stor lira,större lira
+större lira,
+lisldjet,svartmes
+lisldjeta,svartmes
+lissdjet,svartmes
+lissdjeta,svartmes
+ljaugas,se jugås
+ljom,storlom
+ljugås,se jugås
+ljugåsekarl,jugås
+liten måge,fiskmås
+liten grå måge,fiskmås
+ljungpipare,se nordöstlig 1.
+amerikansk ljungpipare,amerikansk brockfågel
+asiatisk ljungpipare,amerikansk brockfågel
+nordöstlig ljungpipare,
+ljungspole,ljungpipare
+ljungspove,ljungpipare
+ljungspov,småspov
+ljungvipa,ljungpipare
+ljungviva,ljungpipare
+loftsvala,ladusvala
+logsvala,ladusvala
+loke,kricka
+lok,kricka
+lokand,kricka
+vanlig lom,smålom
+lomand,skäggdopping
+lonka,gräsand
+lorstboll,kricka
+lorstpjaska,kricka
+lortand,kricka
+lortand,storskrake
+lortand,årta
+lortlapp,kricka
+lortskrika,nötskrika
+lortskrika,vanlig törnskata
+lorttrast,björktrast
+luddhane,större strandpipare
+ludding,gråsparv
+lunnefågel,
+engelsk lunnefågel,
+grönländsk lunnefågel,
+lurvhals,brushane
+luskask,fiskgjuse
+luspäls,fiskgjuse o. kungsörn m.fl.
+långnäbb,morkulla
+långnäbbo,morkulla
+långnäbba,storspov
+grå långnäbba
+roströd långnäbba,myrspov
+svartstjärtad långnäbba,rödspov
+långnäbbfågel,småspov
+långnäsa,småspov
+långspelafugel,rödhake
+långstylegettyppa,stjärtmes
+långtyta,gråtrut
+lädosvälo,ladusvala
+läirhällo,sädesärla
+läirhällu,sädesärla (stenskvätta?)
+lärika,sånglärka
+läritja,sånglärka
+lärikja,sånglärka
+läritjo,sånglärka
+lärka,sånglärka
+korttåad lärka,
+östlig lärka,
+kårttåig lärka,
+vanlig,sånglärka
+lärke,sånglärka
+lärkja,sånglärka
+lärkfalk,
+lärkspänn,sparvhök
+lärkspännare,lärkfalk
+lärsk,sånglärka
+lärtju,sånglärka
+lövand,bläsand
+lövgjuse,fiskmås juv.
+lövknipa,knipa juv.
+lövlus,lövsångare
+lövsmyg,lövsångare
+lövsångare,
+egentlig lövsångare,trädgårdssångare
+grön lövsångare,
+kungsfågellik lövsångare,
+kungsfågelliknande lövsångare,
+nordisk lövsångare,
+nordöstlig lövsångare,
+vitbrynad,kungsfågelliknande sångare
+vanlig lövsångare,lövsångare
+madhök,brun kärrhök
+madtupp,sothöna
+madvipa,skogssnäppa
+makrilltärna,fisktärna
+malmsgrilla,ljungpipare
+mallemack,stormfågel
+malltvint,bofink
+malteserduva,se under klippduva
+mandarinand,
+manduva,se under klippduva
+markensfågel,trana
+marskråka,se kråka
+marspiss,strandskata
+marspit,strandskata se även fisk tärna
+marspäit,strandskata
+marvigge,vigg
+masbork,gråsparv
+mave,(fisk)mås
+mavipa,se madvipa
+medelhavslira,medelhavslira
+mekälbäss,se mäckerbäss
+mekärbäss,se mäckerbäss
+mellanlabb,bredstjärtad labb
+mellanskarv,
+mellanspett,
+mes,koll. benämning
+blekryggig nordisk mes,
+lapsk mes,lappmes
+nordisk mes,
+sibirisk mes,lappmes
+meshatt,tofsmes
+meshätta,kärrmes
+meshätta,gärdsmyg
+meskung,tofsmes
+messeta,talgoxe
+messitta,kärrmes nordisk mes
+metsis,tjäder
+middagssparv,nordisk mes
+middeland,snatterand
+miena,större strandpipare
+mirbottjen,enkelbeckasin
+mirsnipa,morkulla
+misteltrast,dubbeltrast
+miånd,bläsand
+moirisk,gråsiska
+moirisk,gulnäbbad hämpling
+mongolfasan,
+mopit,ljungpipare
+moripa,
+moriporre,
+morisk,gråsiska
+moriska,gråsiska
+mork-kråka,svartkråka (?)
+morkulla,
+morr,tordmule
+morysk,se moriska
+moröja,morkulla
+mos,se mås
+mosapytta,dubbelbeckasin
+mosapytta,fjällpipare
+mosapytta,ljungpipare
+mosask vättjå,nötskrika (?)
+mosask vättjå,buskskvätta
+mosasparv,grå flugsnappare
+mosavipa,tofsvipa mosnäppa
+mossgök,brushane
+mosslippa,ljungpipare
+mossmäckra,enkelbeckasin
+mosspititjeta,gulärla
+moss-stenskvätta,buskskvätta
+mossticka,enkelbeckasin
+mossvipa,tofsvipa
+movipa,mosnäppa
+mugga,skäggdopping
+mugga,tobisgrissla
+mule,tordmule
+mulgrissla,tordmule
+munkfågel,svarthätta
+munkgam,grågam
+murgröna,gråspett
+murkkråka,kaja
+murkrypare,
+murspit,nötväcka
+mursvala,hussvala
+mursvala,kaja
+musbosparv,lövsångare
+muskvipa,koltrast
+musveta,nötväcka
+musvråk,ormvråk
+musvåg,ormvråk
+mutta,($ av) sjöfågeL
+mygga,halvenkel beckasin
+myrbock,enkelbeckasin
+myrfugl,vadare
+myrgyll,rapphöna
+myrgörel,drillsnäppa
+myrgörel,grönbena
+myrgörel,storspov
+myrgörel,»strandpipare»
+my rmäcklo,enkel beckasin
+myrmäckra,enkel beckasin
+myroxe,rördrom
+myrpytta,ljungpipare
+myrpytta,myrsnäppa
+myrsnipa,enkelbeckasin
+myrsnipa,morkulla
+myrsnipa,småspov
+myrsnäppa,
+myrspov,
+myr-svärtt,bergand(?)
+myr-svätt,svärta(?)
+myr-svätt,vigg
+myrsätta,kärrmes
+myruks,se myroxe
+myrvipa,myrsnäppa
+mysing,gärdsmyg
+myskand,turkisk and
+myssfuckare,se möss-
+måga,fiskmås
+liten måge,fiskmås
+måk,fiskmås
+måka,fiskmås
+måke,fiskmås
+måltrast,taltrast
+mångmålasparv,taltrast
+mårr,se morr
+måsduva,se under klippduva
+spansk mås,havssula
+tretåig mås,
+vitvingad mås,vitvingad trut
+mås,fiskmås
+mäckerbäss,enkelbeckasin
+spansk måse,havssula
+tretåig måse,
+vitvingad måse,vitvingad trut
+måse,fiskmås
+mäckerbässe,enkelbeckasin
+måspinare,spetstjärtad labb
+mäckra,se kärrmäckra mossmäckra
+mäkelbäss,enkelbeckasin
+mäkerbäss,enkelbeckasin
+märrgök,enkelbeckasin
+mögelhane,andra o tredje årets unghane av knipa
+möjsing,sparvhök
+möllare,ärtsångare
+mösa,fiskmås
+mössfuckare,sparvhök
+mösshök,sparvhök
+mössugggia,kattuggla
+naakka,kaja
+nahtgål,näktergal
+nandu,se under struts
+nasar,bergand o. vigg
+nataskrika,nötskrika
+natknarka,nattskärra
+natsnurra,nattskärra
+nattknarka,nattskärra
+nattsnurra,nattskärra
+nattamuska,nattskärra
+nattblacka,nattskärra
+nattblarra,nattskärra
+nattflabba,nattskärra
+nattflacka,nattskärra
+nattflaxa,nattskärra
+nattglappa,nattskärra
+natthäger,natthäger
+nattmyska,nattskärra
+nattmyskja,nattskärra
+nattmöskja,nattskärra
+nattnorpa,nattskärra
+nattparra,nattskärra
+nattsjora,nattskärra
+nattsjåma,kattuggla
+nattskjura,nattskärra
+nattskjåna,kattuggla
+nattskata,
+nattskratta,
+nattskreva,nattskärra
+nattskråma,kattuggla
+nattskräda,nattskärra
+nattskrä,nattskärra
+nattskräva,nattskärra
+nattskrävla,kornknarr
+nattskrävla,nattskärra
+nattskvack,nattskärra
+nattskvarra,nattskärra
+nattskäddra,nattskärra
+nattskära,kornknarr
+nattskära,nattskärra
+nattskärra,
+nattskäva,nattskärra
+nattsvala,tornsvala
+nattuggla,kattuggla
+nattvaka,taltrast
+nattvaka,tallbit
+nattvissja,nattskärra
+nermus,nattskärra
+neting,nordisk mes
+niodödare,vanlig törnskata
+nisse,(cJ av) sjöfåglar
+nolavärspIigg,se nordanvärs-pligg
+nolaväderspIigg,se nordanvärs-pligg
+norapjuka,rödbena
+nordanvärspligg,småspov o. storspov
+nordanvärsspjuling,storspov
+nordanvärstyta,mindre strandpipare
+nordanväderspligg,småspov o. storspov
+nordanvädersspjuling,storspov
+nordanväderstyta,mindre strandpipare
+nordaust,storspov
+nordgrissla,spetsbergsgrissla
+nordspett,tretåig hackspett
+nordsångare,nordisk lövsångare
+Norges stjöro,nötskrika
+norrkvint,bergfink
+norrtvint,bergfink
+norsvipa,fiskmås
+notgubbe,nötkråka
+notskata,nötkråka
+notskräka,nötkråka
+notskräkja,nötkråka
+noteskräka,nötkråka
+noteskräkja,nötkråka
+noteskräxa,nötkråka och nötskrika
+noteskväkja,nötkråka och nötskrika
+notskräxa,nötkråka och nötskrika
+notskväkja,nötkråka och nötskrika
+nyjärpe,rapphöna
+nykråka,råka
+nylke,skogsduva
+nytskrike,se nötskrika
+nytoskrejka,nötkråka
+nåtiabb,nattskärra
+nåtlabb,nattskärra
+nåtskjåna,kattuggla
+nåtskrekja,nötskrika
+nåtskrikja,nötskrika
+nåteskreka,nötskrika
+nuteskreka,nötskrika
+nåtskråma,kattuggla
+nåtskråma,nattskärra
+nåtskräka,nötskrika
+nåteskräna,nötskrika
+nåteskräppa,nötskrika
+nåtskväkja,nötskrika
+nåtskräkja,nötskrika
+nåteskräkja,nötskrika
+nuteskräkja,nötskrika
+nåteskräna,nötskrika
+nåteskräppa,nötskrika
+nåteskväkja,nötskrika
+nåtstjåma,kattuggla
+nächtergahl,
+nordisk näktergal,taltrast
+nordlig näktergal,
+sydlig näktergal,
+nättergale,näktergal
+nätling,knipa
+nättling,knipa
+nödkråka,nötkråka
+nötknäcka,nötkråka
+nötknäppare,nötväcka
+nötkråka,
+långnäbbad nötkråka,
+smalnäbbad nötkråka,långnäbbad nötkråka
+tjocknäbbad nötkråka,nötkråka
+nötpacka,nötväcka
+nötskrika,
+nötskrika,nötkråka
+nötskräppa,nötskrika
+nötskväcka,nötväcka
+nötväcka,
+nötväcka,hackspett
+homeyers nötväcka,
+ljus nötväcka,
+sibirisk nötväcka,
+Stolemans nötväcka,
+tysk nötväcka,
+östlig nötväcka,sibirsk nötväcka
+nötväckare,nötväcka
+oakerskäru,se åkerskära
+oda,se åda
+Odensvala,svart stork
+ofresfågel,härfågel
+Odenssvala,svart stork
+ofredsfågel,härfågel
+ofågel,kattuggla
+oil,alfågel
+Olle drucken,tobisgrissla
+ollonskrika,nötskrika
+olmt,svan
+’ona,($ av) sjöfågel
+onsvala,vanlig glada
+oppfågel,härfågel
+oppopp,härfågel
+ormråk,ormvråk
+ormvråk,
+rysk ormvråk,falkvråk
+ormvråk,vanlig glada
+ormvåk,-vråk
+ormörn,
+orr,orrhöna
+orra,orrhöna
+orre 
+orrfågel 
+orrhöna,
+orrhöns,
+orrmor,
+urr-mor,
+orrvena, 
+orrkarl,
+orrtråd,
+orrtupp, 
+engelsk orre,
+orrmor även ejderhona
+orta,se årta
+ortolan,ortolansparv
+ortolansparv,
+ovädersfågel,storskarv
+oxkörare,nordlig näktergal
+oxkörare,taltrast
+oxmyssla,sommargylling
+oäringsfågel,härfågel
+papegoja,
+grönländsk papegoja,lunnefågel
+svensk papegoja,tallbit
+pappkååj,papegoja
+parrfågel,spett
+passgångartrapp,kragtrapp
+pelegrimsfalk,se pilgrimsfalk
+pelekan,pelikan
+pelikan,
+krushuvad pelikan,
+vit pelikan,pelikan
+Pelle,tjädertupp
+persjalka,lom
+persejalka,lom
+perssvala,tornsvala
+Per sup,tobisgrissla
+Per supare,större strandpipare
+Per supare,tobisgrissla
+pfau,påfågel
+pickel,strandskata
+pikstjärt,stjärtand
+pilfink,
+pilgrimsfalk,
+tysk pilgrimsfalk,
+pilkaja,tornsvala
+pillekan,se pelikan
+pillkan,storskarv
+pilsparv,pilfink
+pilspink,pilfink
+pink,bofink m.fl. finkfåglar
+pipaern,spillkråka
+pipa-gök,göktyta
+pipande-gök,göktyta
+pipare,sjöorre
+pipare,spillkråka
+asiatiskv pipare,
+pipkrums,bändelkorsnäbb
+piplärka,benämning trädpiplärka
+Richards piplärka,stor piplärka
+rödhalsad piplärka,rödstrupig piplärka
+rödstrupig piplärka,
+sibirisk piplärka,
+stor piplärka,
+piptrast,rödvingetrast
+pirasch,ormvråk
+pirrhök,ormvråk
+pirrsvala,svala
+pistol,dvärgfalk
+pittjeta,sädesärla
+pitetjeta,sädesärla
+pititjeta,svartmes
+pititsjitto,sädesärla
+gola pititsjitto,guläria
+pittertrast,björktrast
+pjuck,domherre
+pjuk,sjöorre
+pjuta,spillkråka
+ploggök,göktyta
+plogärla,sädesärla
+plussare,ejder årsunge
+plytare,strandskata
+pofågel,härfågel
+polargås,snögås
+polarmås,vitvingad trut
+polartärna,rödnäbbad-
+pomeransfågel,fjällpipare
+popp,härfågel
+popparegök,härfågel
+poppelorre,orre
+poppla,pärluggla
+potatisduva,nötskrika
+potatistrana,se under trana
+pracka,småskrake
+pracko,småskrake
+pracknisse,småskrake
+prackesniss,småskrake
+prakt-and,
+praktejder,
+praktgås,mandarinand
+praktåda,se praktejder
+prutgås,
+grönländsk prutgås,
+prylla,roskarl
+pränta,se under svärta
+präts,kornknarr
+prätsa,kornknarr
+pulla,duva tamhöna även lockord
+pungmes,
+pupu-spärring,pärluggla
+pupo-spärring,pärluggla
+purpurhäger,
+purpurhöna,
+purpursvan,sångsvan
+purrhöns,brushane se under bankivahöns
+pylla,höna
+pyssling,gråsparv
+pytt,kärrmes
+pytt,rödvingetrast
+pytta,höna
+påfågel,
+brokig påfågel,
+malayisk påfågel,
+svartvingad påfågel,
+tam påfågel,
+vanlig påfågel,
+vild påfågel,
+vit påfågel,
+påfågelsduva,se under klippduva
+Pär,lunnefågel
+pärlhöna,
+vanlig pärlhöna,pärlhöna
+pärl kråka,nötkråka
+pärllom,smålom
+pärlskrika,nötskrika
+pärluggla,
+päronkråka,nötskrika
+päronskjåra,nötskrika
+päronskrika,nötskrika
+pärontjuv,nötskrika
+pärosjoro,nötskrika
+pärotjuv,nötskrika
+pärskata,nötskrika
+pärskrika,nötskrika
+ra,($ av) tjäder
+rackelfågel,rackelhane
+rackelhane,
+rackelhantjäder,
+rada,roskarl (?)
+rade,roskarl (?)
+ragge,ljungpipare
+rallhäger,
+ram,korp
+ramn,korp
+rapelhane,se rackelhane
+rappöna,
+rapphöna,
+liten rappöna,vaktel möjl också ungf rapphöna
+muterad rappöna,
+vanlig rappöna,
+liten rapphöna,vaktel möjl också ungf rapphöna
+muterad rapphöna,
+vanlig rapphöna,
+raudspov,se rödspov
+regnstina,spillkråka
+regnsvala,tornsvala
+regnvipa,småspov
+renfågel,lavskrika
+renkalvtjuv,kungsörn
+revtärna,skräntärna
+rikabålt,roskarl
+rikabolt,roskarl
+rikmännen,kornknarr
+ringaxel,sädesärla juv
+ringdrossel,ringtrast
+ringduvam
+ringfasan,se under fasan
+ringgås,gravand
+ringilla,sädesärla juv
+ringkedja,se ringtjäe
+ringsvala,tornsvala
+ringtjäd,tretåig mås
+ringtjäe,tretåig mås
+ringtrast,
+ringäria,sädesärla juv
+svartryggig ringäria,engelsk sädesärla juv
+ringöla,se ringäria
+rioppa,se snöripa
+ripa,snöripa
+raudtrissla,rödstjärt hämpling 
+raudtrissle,rödstjärt hämpling 
+raudträssla,rödstjärt hämpling 
+grönländskripa,se grönlandsripa
+rauk,råka 
+rautjouxa,
+ripjärpe,
+ravn,korp 
+riporre,
+regndrypa,spillkråka 
+ripspänning,duvhök
+regnfågel,göktyta 
+regnfågel,spillkråka 
+riska,gulnäbbad hämp
+riptjäder,
+regnkatta,ljungpipare ling
+regnkricka,spillkråka
+rismor,järpe
+regnkråka,spillkråka
+risvälo,ladusvala
+regnkvicka,storspov 
+rockelhane,se rackelhane
+regnmäckra,enkelbeckasin
+rok,se råk
+romorre,strömstare
+regnpipare,ljungpipare 
+roppa,dalripa
+regnpitare,ljungpipare 
+rosenbjälke,större hackspett
+regnripa,spillkråka 
+regnspira,tornsvala 
+rosenfink,
+rosenmås,
+rosenstar,
+rosentärna,Dougalls tärna
+roskarl,
+ross-gucku,enkelbeckasin
+rossiare,rackelhane
+rostand,
+rostbofink,bergfink
+ostsibirisk rostgumpsvala,östsibirisk rostgumpsvala
+östsibirisk rostgumpsvala,
+rotgel,rödhake
+rotges,alkekung
+rufågel,lavskrika
+rugeskräx,se rågskräx
+rugeskräxe,se rågskräx
+rugstret,se rågstreta
+rulla,
+rull-and,
+rupa,se snöripa
+rypa,se snöripa
+rupo,se snöripa
+ruskvädersfågel,fågel som anses båda oväder
+russagauk,enkelbeckasin
+russgauk,enkelbeckasin
+rut,prutgås
+rutgås,prutgås
+rutlom,storlom
+ry,tjäder
+rya,orre o. tjäder
+ryda,
+ryfågel,lavskrika
+ryhöna,tjäder
+rypa,se ripa
+ryrhöna,tjäder
+rupa,se ripa
+rypkall,se ripa
+rypkäling,se ripa
+rypspänning,se ripspänning
+ryssvråk,se falkvråk
+råckelhane,se rackelhane
+råggnark,kornknarr
+rågknarr,kornknarr
+rågknärka,kornknarr
+rågknärp,kornknarr
+rågskerka,kornknarr
+rågskraks,kornknarr
+rågskrika,nötskrika
+rågskräx,kornknarr
+rågskära,kornknarr
+rågskräxe,kornknarr
+rågskära,kornknarr
+rugeskräx,kornknarr
+rågskärra,kornknarr
+rågstjäro,kornknarr
+rågstreta,kornknarr
+råk,ung mås trut o tärna
+råka,
+råke,vråk
+rä,tjäder
+räcknagel,tornsvala
+räfsvridare,kornknarr
+räjbums,rördrom
+räjstackfugel,gråsparv
+rälla,sädesärla
+rätskrake,småskrake
+rävgås,gravand
+rävsax,kornknarr
+rö,tjäder
+röa,tjäder
+röbröst,se rödbröst
+röbums,rördrom
+röbuts,rördrom
+rödbena,
+isländsk rödbena,
+rödbening,rödbena
+rödbröst,rödhake
+rödbröst,domherre
+rödbrösta,buskskvätta
+rödbrösta,rödhake
+rödfola,lavskrika
+rödfotgås,spetsbergsgås
+rödfågel,lavskrika
+rödfågel,rödstjärt
+rödhake,
+engelsk rödhake,
+rödhakesångare,rödhake
+rödhane,rödhake
+rödhämpling,rosenfink
+rödhöna,
+rödja,tjäder
+rödkatta,lavskrika
+rödkoxik,lavskrika
+rödmössa,spillkråka
+rödnack,gråsiska
+rödnacka,bläsand
+rödnacke,gråsiska
+rödnackesparv,gråsiska
+rödolle,lavskrika
+rödsiska,domherre
+rödskjåra,lavskrika
+rödskjåra,nötskrika
+rödspov,
+egentlig rödspov,myrspov
+svartstjärtad rödspov,rödspov
+rödstjår,nötskrika
+rödstjärt,
+rödstjärt,lavskrika
+svart rödstjärt,
+vanlig rödstjärt,rödstjärt
+rödstjärtsångare,rödstjärt
+svart rödstjärtsångare,svart rödstjärt
+rödstyresparv,rödstjärt
+rödtjuxa,lavskrika
+rödvinge,rödvingetrast
+sibirisk rödvinge,
+rödvingetrast,
+röfågel,lavskrika
+rögskära,se råg-
+röij,tjäder
+röj,tjäder
+röjmor,tjäder
+röjo,tjäder
+röjsjärså,stenskvätta
+röjsmatto,stenskvätta
+rönacko,se rödnacke
+röne,sidensvans
+rönnbärshane,sidensvans
+rönntrast,björktrast
+rönntrast,sidensvans
+rördrom,
+rördrum,rördrom
+rörhöna,
+liten rörhöna,liten sumphöna
+rörhöna,småfläckig sumphöna
+rörsnäppa,halvenkel beckasin
+rörstig,rörsångare
+rörsångare,
+långnäbbad rörsångare,
+röskättu,nötskrika
+rösselgök,enkelbeckasin
+rö-stare,trastsångare
+rö,nötskrika
+röstjör,nötskrika
+röstj ärt,se röd-
+rötjykksa,lavskrika
+röufögel,se rödfågel
+salangan,
+salknipa,salskrake
+salskrake,
+salsvärta,svärta
+sandhöna,stäpphöna
+sandhöna,vadaresvala
+sandlärka,berglärka
+sandlöpare,
+sandrulling,större strandpipare
+egentlig sandrulling,större strandpipare
+mindre sandrulling,mindre strandpipare
+sandrulling svartbent,svartbent strandpipare
+vanlig svartbent,större strandpipipare
+sandskata,grå långnäbba
+sandsvala,strandsvala
+Sankt Pehrsfågel,havslöpare
+Sant Jæsjtrud,spillkråka
+saxand,stjärtand
+saxsolva,ladusvala
+saxsvala,ladusvala
+saxsölu,ladusvala
+schalack,storskarv
+schora,skata
+schoörå,skata
+schåora,skata 
+schåra,skata 
+schöra,skata 
+schörå,skata
+sebel-svans,se sidensvans
+sedding,ängpiplärka
+seidereivare,kornknarr
+seidereiver,kornknarr
+sepräst,strömstare
+seselskit,gulnäbbad hämpling
+sesselskit,gulsparv
+seselskit,kornsparv
+sibbilsvans,sidensvans
+sibelsvans,sidensvans
+sivensvans,sidensvans
+sibetsvans,sidensvans
+siebensvans,sidensvans
+sidensvans,
+sigdesrivare,kornknarr
+sigderivare,kornknarr
+sigdäräjfvare,kornknarr
+silkesand,skäggdopping
+silkesand,stjärtand
+silkesdopping,svarthakedopping
+silkeslom,skäggdopping
+silkeslom,tordmule
+sill-alka,sillgrissla
+sill-alka,tordmule
+silladopping,sillgrissla
+silladopping,sillgrissla
+sillebas,havssula
+silleslygare,se sillslukare
+sillgjuse,sillmås
+sillgrissla,
+engelsk sillgrissla,se sillgrissla
+Färöarnas sillgrissla,se sillgrissla
+Helgolands sillgrissla,se sillgrissla
+isländsk sillgrissla,se sillgrissla
+Karlsöarnas sillgrissla,se sillgrissla
+Spetsbergens sillgrissla,spetsbergsgrissla
+sillknejpare,tobisgrissla i vinterdräkt
+sillknipa,sillgrissla
+sillknipa,tobisgrissla
+sillknipare,tobisgrissla
+sillmåka,sillmås(e)
+sillmås,
+sillmåse,
+sillmåve,sillmås(e)
+sillslukare,sillmås(e)
+sillstimsvisare,sillmås(e)
+silltrut,sillmås
+blek silltrut,
+västkustens silltrut,blek silltrut
+engelsk silltrut,
+silverfasan,se fasan
+stor silverhäger,(stor) vit häger
+liten silverhäger,(liten) vit häger
+silvermåns,vittrut
+silvermås,gråtrut
+silversvan,sångsvan
+silvertärna,rödnäbbad-
+simna,tretåig mås
+simpand,småskrake
+brednäbbad simsnäppa,
+simsnäppa,smalnäbbad simsnäppa
+simsnäppa,myrsnäppa
+smalnäbbad simsnäppa,
+singetrast,taltrast
+sinnare,sidensvans
+sirr,sidensvans
+sis-ela,gulärla
+sis-ela,sädesärla
+siska,
+sisselskit,gulnäbbad hämpling
+siselskit,gulsparv
+sisserönnika,gråsiska
+siserönnika,gulnäbbad hämpling
+sivensvans,sidensvans
+sjaska,gulnäbbad hämpling
+sjesöle,större strandpipare
+sjititjol,talgoxe
+sjo-al,se sjö-
+sjo-lom,se sjölom
+sjoro,se skjora
+sjutut,se skjutut
+själgumse,se säl-
+själkofsa,se säl-
+sjäska,gråsiska
+sjö-al,storlom
+sjöhök,fiskgjuse
+sjökaja,tärna
+sjöknipa,knipa
+sjökråka,skäggdopping
+sjökräkla,tornsvala
+sjökung,alkekung
+sjölom,lom
+sjölärka,snösparv
+sjöorre,
+sjöorre,sothöna
+sjöorre,svärta
+sjöpapegoja,lunnefågel
+sjöpink,stormsvala
+sjöpräst,strömstare
+sjöska,gråsiska
+sjösvärta,svärta
+sjövråka,fiskgjuse
+skallgås,prutgås
+skam,storspov
+skamsfågel,skata
+skara,stare
+skarfågel,snösparv
+skarnkråka,nötskrika
+skårnkråka,nötskrika
+skarr,tordmule
+skarv,se storskarv
+skata,
+finsk skata,se skata
+skatand,knipa
+skatand,stjärtand
+skatand,vigg
+skatgök,
+skedand,
+skedgås,skedstork
+skedstork,
+skenvåg,fjällvråk
+skenvåk,fjällvråk
+sketherre,sidensvans
+skitare,
+Skitbertel,spetsstjärtad labb
+skitherre,domherre
+skitikjol,talgoxe
+skitkråka,nötskrika
+skitskata,nötskrika
+skitskrika,nötskrika
+skitspink,gråsparv
+skittrast,björktrast
+skjora,skata
+skjura,skata 
+skjuro,skata
+skjåra,skata
+skär,skata
+skära,skata
+sköra,skata
+skjut-ut,ringduva
+skoghane,spillkråka
+skogjärpe,järpe
+skogsbock,tofsmes
+skogsduva,
+skogsduva,ringduva
+skogsfågel,gemensamt namn för orre och tjäder
+skogsgås,sädgås
+skogsknarr,större hackspett
+skogsknett,grönsångare
+skogsknett,Iövsångare
+skogskäring,lavskrika
+skogsloppa,gemensamt namn på mesar
+skogslärka,trädlärka
+skogsmes,nordisk mes
+skogsmor,lavskrika
+skogsripa,snöripa
+skogsrödstjärt,lavskrika
+skogs-sirkka,driilsnäppa?
+skogsskata,nötskrika
+skogsskrika,nötskrika
+skogssnäppa,
+skogsstork,svart stork
+skogssvala,tornsvala
+skogssångare,grönsångare
+skogstita,svartmes
+skogstjör,nötskrika
+skogstupp,tjädertupp
+skogsuv,berguv
+skogsuv,hornuggla
+skogs västäräcka,gulärla
+skomakare,spetsstjärtad labb
+skorra,se träskorra
+skorrsvärta,svärta
+skoveland,skedand
+skovskata,nötkråka
+skrackand,storskrake
+skraga,skrake
+skrake,skrake
+skrak,storskrake
+skraka,storskrake
+skrakekäring,storskrake
+skrakkäring,storskrake
+skramave,skräntärna skrattmås
+skrappand,storskrake
+skratta,björktrast
+skrattduva,
+skratthöna,
+skrattmås,
+skrejmave,skräntärna
+skria,se ådskria
+skrika,nötskrika
+skrikfågel,tornsvala
+skrikafågel,tornsvala
+skrikmare,skrattmås
+skrikmås,skräntärnä
+skriktärna,skräntärnä
+skrikuggla,kattuggla
+mindre skrikörn
+större skrikörn
+skrimave,skräntärna
+skrimavä,skräntärna
+skrimov,skräntärna
+skrya,ejder
+skråtärna,skräntärna
+skräck,skrakunge
+skräckja,småskrake
+skräcka,storskrake
+skräckand,storskrake
+skräckfågel,storskrake
+skräckmåse,storskrake
+skräcknisse,prackhane 
+skräcks-,prackhane
+skräckes-,prackhane
+skräckokarl,skraktupp
+skräddare,strandskata
+skräcka,nötskrika
+skräkja,nötskrika
+skrämås,skräntärna skrattmås
+skränmås,skräntärna
+skränmåsa,skräntärna
+skränmåse,skräntärna
+skräntärna,
+skrätja,skrake
+skrätscha,skrake
+skräxa,skrake se även hors- not- åker-
+skröja,ejder
+skua,storlabb
+skualabb,storlabb
+skute,ringduva
+skut-tuta,skogsduva
+skut-tuta,spillkråka
+skvacka,ejderhona
+skvaketrast,björktrast
+skvata,skata
+skvattertrast,björktrast
+skvatärtrast,björktrast
+skvittertrast,björktrast
+skväkatrast,björktrast
+skväkja,se nåtskväkja (nutaskvætjo)
+skväka,se nåtskväkja (nutaskvætjo)
+skvärmås,skräntärna
+skväta,stenskvätta
+skvättesjora,björktrast
+skåre,gråtrut
+skånkråka,se skarnskäffling se under svärta
+skårnkråka,se skarnskäffling se under svärta
+skäggdoppare,skäggdopping
+skäggdoppare,svarthakedopping
+skäggdopping,
+skäggmes,
+skälgumse,se sälgumse
+skäligås,prutgås
+skär,skata
+skära,kornknarr
+skäre,skata
+skärfläcka,
+skärhöna,kornknarr
+skärmus,skärsnäppa
+skärpiplärka,
+skärplärka,skärpiplärka
+skärra,kornknarr
+skärsax,kornknarr
+skärsnäppa,
+skärv,storskarv
+skärvipa,skärsnäppa
+skävra,skata
+sköra,skata
+skör-and,knipa (?)
+skör-and,stjärtand (?)
+sladd,»namn på en sjöfågel»
+slagfalk,pilgrimsfalk
+slaghök,bivråk
+slaghök,duvhök
+slaghök,ormvråk
+slaghök,pilgrimsfalk
+slaguggla,
+slagör,ormvråk
+slagörn,duvhök
+slagörn,kungsörn
+slasksparv,sidensvans
+slipstensdragare,stjärtand
+smutsgam,asgam
+smådopping,
+smågall,sillmås
+småklövja,grönbena
+smålabb,spetstsjärtad labb
+smålom,
+småpytta,småsnäppa
+smårulling,mindre strandpipare
+småskrake,
+småsnäppa,
+amerikansk småsnäppa,
+bröstfläckad småsnäppa,
+småspett,liten hackspett
+småspov,
+småsvärta,sjöorre
+småtrapp,
+västlig småtrapp,
+östlig småtrapp,småtrapp
+småtärna,dvärgtärna
+småvigg,vigg
+småvipa,småsnäppa
+småörn,mindre skrikörn
+snatterand,
+snenäbb,mindre korsnäbb
+snibba,’snäppa’ se under rödbenan
+snipalka,sillgrissla
+snipand,småskrake
+snipand,storskrake
+snokvråk,ormvråk
+Bartrams snäppa,se långstjärtad snäppa
+brednäbbad snäppa,myrsnäppa
+gråbent snäppa,skogssnäppa
+grönbent snäppa,grönbena
+gulbent snäppa,
+långstjärtad snäppa,
+rostbröstad snäppa,
+rödbent snäppa,rödbena
+svartbröstad snäppa,kärrsnäppa i sommardräkt
+svartgrå snäppa,svart snäppa
+snäppstruts,se under struts
+snärpa,se ängssnärpa
+snöfåggel,snösparv
+snöfuggl,snösparv
+snögås,
+snölärka,snösparv
+snörupa,
+snöripa,
+snösjora,björktrast
+snöskjura,björktrast
+snöskata,
+snöskjåra,nötskrika
+snöskvirra,snösparv
+snöskvirrao,björktrast
+snösparr,björktrast
+snösparv,
+snösparv,gulsparv
+snösparv,lappsparv(?)
+snöspink,gulsparv
+snösvirra,snösparv
+snösvärr,snösparv
+solsvärta,koltrast
+solsvärta,spillkråka
+solsvärta,tornsvala
+snötita,benämning på mesar
+snöteta,benämning på mesar
+snötyppa,sidensvans
+snöuggla,fjälluggla
+solu,hussvala
+sommarall,alfågel i sommardräkt
+sommarand,stjärtand
+sommarguling,sommargylling
+sommargylling,
+sommarhämpling,hämpling
+sommarpytta,kärrsnäppa
+sommar-åd,ejderhona
+sommer-si-si-li-skit,or-tolansparv
+sötare,sothöna
+sötare,tornsvala
+sothöna,
+sparr,se sparv
+sparrhök,se sparvhök
+sparv,
+tysk sparv,pilfink
+utländsk sparv,dvärg sparv
+sparv,gråsparv
+sparv,gulsparv
+sparv,pilfink
+sparvhök,
+sparvhök,dvärgfalk
+sibirisk sparvhök,
+sparvkung,lövsångare
+sparvtrådare,sparvhök
+sparvuggla,
+speckhök,sparvhök
+spelavint,sädesärla
+spelkråka,nattskärra spillkråka
+spellekråka,spillkråka
+speltrast,taltrast
+spetetjekare,nordisk mes
+spetetjeta,sädesärla
+spetlinka,sädesärla
+spetelinka,sädesärla
+spetsalka,sillgrissla
+spetsbergsalk,spetsbergsgrissla
+spetsbergsgrissla,
+spetsbergsgås,
+spetsbergsripa,
+spetsnäbb,sillgrissla
+spett,
+spicke,gråsparv
+spickel se strand-
+spicket-kött,talgoxe
+spicket-köttsfågel,talgoxe
+spiggand,storskrake
+spikand,stjärtand
+spikgubbe,strandskata
+spikkytsfugel,talgoxe
+spilinta,sädesärla
+spilitto,sädesärla
+spilittjå,sädesärla
+spilkråka,se spillkråka
+spillinta,sädesärla
+spillitta,sädesärla
+spillkorp,spillkorp
+spillkråka,
+spilskir,spillkorp
+spink,bofink sparvar
+spinnkäring,nattskärra spillkråka
+spinnrock,nattskärra
+spirelnick,drillsnäppa
+spirelnick,grönbena
+spirrhök,se sparvhök
+spismule,nattskärra
+spissnäbb,sillgrissla
+spit,se hack- korn-
+spita,tobisgrissla
+spititjekare,nordiskmes
+spitilinko,sädesärla
+spitjilinko,sädesärla
+spitsiget,svartmes
+spittetjet,lappmes
+spittetjet,nordisk mes
+spittje,gråsparv
+spjuling,storspov
+spjutand,stjärtand
+spjutånn,stjärtand
+spjäutand,stjärtand
+spol,storspov
+spole,storspov (se ävenvind-)
+spolicka,storspov
+spolittjå,storspov
+spolspov,storspov
+dubbla sporrhöns,se under bankivahöns
+spov,storspov
+spol,storspov
+spolicka,storspov
+spovel,storspov
+spovlickja,storspov
+spolickja,storspov
+spovlickja,storspov
+spovsnäppa,
+spovvipa,spovsnäppa
+sprisvala,hussvala
+spunefågel,se spån-
+spurvehög,se sparvhök
+spuv,se spov
+spyel,storspov
+spånfågel,nattskärra
+spånkråka,nattskärra
+spånkälling,nattskärra
+spånekälling,nattskärra
+spukälling,nattskärra
+nekälling,nattskärra
+spånkäring,hackspett spillkråka
+spånkäring,nattskärra
+spänn-ar,ormvråk
+spännare,falk o hök mfl dagrovfåglar
+spännglada,sparvhök
+spännhök,duvhök
+spänning,sparvhök
+spärrhauk se sparvhök
+spärrhök,se sparvhök
+spärring,duvhök
+spärring,sparvhök
+spärring,tornfalk mfl dagrovfåglar
+spärrling,sparv
+spärv,busksparv (gul-)
+spärvhök,se sparv-
+sqvärmås,se skvärmås
+stain-,se stajn-
+stajngylp,stenskvätta
+stajnskräcka,småskrake
+stajnsvört,svärta
+stamstare,koltrast
+stamstare,stare
+stare,
+starik,
+starr,stare
+starrsångare,vattensångare
+steglisa,steglits(a)
+steglits,
+steglitsa,
+Stellers and,alförrädare
+stillkråka,spillkråka
+stellkråka,spillkråka
+stenfalk,dvärgfalk
+stenglafst,stenskvätta
+stengläfsta,stenskvätta
+stenguppa,stenskvätta
+stengölp,stenskvätta
+stenjulp,stenskvätta
+stenjulpa,stenskvätta
+stenkack,stenskvätta
+stenknäck,
+stenskit,stenskvätta
+stenskita,stenskvätta
+stenskrake,småskrake
+stenskräcka,småskrake
+stenskvattra,stenskvätta
+stenskvira,stenskvätta (-o)
+stenskvätta,
+stenskvätto,
+grönländsk stenskvätta (-o),
+stenskvättra,-skvätta
+stenskörtare,-skvätta
+stensmacka,-skvätta
+stensmäck,-skvätta
+stensmätt,-skvätta
+stenspärt,-skvätta
+stenstjärt,-skvätta
+stenstjärta,-skvätta
+stensvala,strandsvala
+stentikk,stenskvätta gärdsmyg
+stenulv,berguv
+stenuv,berguv
+stenvalp,stenskvätta
+stenvolp,stenskvätta
+stenvålp,stenskvätta
+stenväppling,stenskvätta
+stepphök,se stäpp-
+steppvipa,se stäpp-
+stickelis,steglitsa
+stiglits,steglitsa
+stillkråka,se stellkråka
+stjitbärt,spetsstjärtad labb
+stjår,skata
+stjåro,skata
+stjärtand,
+stjärtlabb,fjällabb
+stjärtmes,
+mellaneuropeisk stjärtmes,
+sydvästeuropeisk stjärtmes,
+stjärttita,stjärtmes
+Norges stjöro,nötskrika
+stockand,gräsand
+stockand,knipa
+stockand,storskrake
+stoik,rödbena
+stomand,knipa
+stoppsvala,hussvala
+stordopping,skäggdopping
+storfågel,tjäder
+storgall,havstrut
+storgjause,havstrut
+storglutt,gluttsnäppa
+storgås,sädgås
+storhackspett,spillkråka
+stork,vit stork
+svart stork,
+vit stork,
+storkattuggla,fjälluggla
+storkattuggla,slaguggla
+storklyvja,gluttsnäppa
+storlabb,
+storlabb,bredstjärtad labb
+storlom,
+stormfink,stormsvala
+stormfågel,
+stormfågel,fiskmås som vid annalkande storm söker sig åt land
+stormfögel,större fågel som vid stundande storm kommer ombord på fartyg ute på havet
+stormkråka,spillkråka
+stormseglare,klykstjärtad stormsvala
+stormspink,stormsvala
+stormpink,stormsvala
+stormsvala,
+klykstjärtad stormsvala,
+liten stormsvala,storm svala
+storm-uggla,grå fågel som söker skydd på fartyg
+stormvädersfågel,stormsvala
+stormåge,se havstrut sillmås
+stormås,havstrut sillmås
+storplutt,gluttsnäppa
+storskarv,
+storskrake,
+storskrak,
+storskräcka,storskrak(e)
+storspett,större hackspett
+storspov,
+storsvärta,svärta
+stortrapp,
+stortrut,havstrut
+storvigg,bergand
+St. Pehrsfågel,havslöpare
+stranddikta,drillsnäppa
+stranddikta,grönbena
+strandfela,drillsnäppa
+strandfickel,drillsnäppa
+strandgykla,drillsnäppa
+strandhyckel,snäppa
+strandjägare,drillsnäppa mfl små vadare
+strandkille,strandskata (?)
+strandkyl,drillsnäppa
+strandkyllare,rödbena
+strandkyllare,roskarl
+strandkytare,drillsnäppa
+strandlo,drillsnäppa mfl små vadare
+strandlärka,skärpiplärka
+strandlöpare,drillsnäppa
+strandlöpare,grönbena
+strandolle,drillsnäppa
+strandpickel,drillsnäppa
+strandpipa,drillsnäppa
+strandpipare,större strandpipare
+strandpipare,drillsnäp pa mfl små vadare
+mindre strandpipare,
+nordöstlig strandpiparem
+större strandpipare,
+svartbent strandpipare,
+vitbröstad strandpipare,svartbent strandpipare
+strandpiplärka,
+strandpitare,drillsnäp pa mfl småvadare
+strandpryckel,strandpipare Charadrius
+strandpytta,skärsnäppa
+strandriddare,strandskata
+strandriddare,större strandpipare
+mindre strandruliing,mindre strandpipare
+större strandruliing,större strandpipare
+strandryttare,svartsnäppa (strandskata?)
+strandsittare,drillsnäppa
+strandsittare,mindre strandpipare
+strandskata,
+strandskitel,drillsnäppa
+strandskjora,strandskata
+strandskjor,strandskata
+strandskrake,småskrake
+strandsnäppa,kustsnäppa
+strandspickel,strandpipare drillsnäppa
+strandspirvel,drillsnäppa
+strandpryckel,strandpipare drillsnäppa
+strandspryckel,strandpipare drillsnäppa
+strandstare,snäppa
+strandstekel,strandpipare
+strandstickel,strandpipare
+strandstickel,beckasin
+strandstreck,småvadare
+strandstekel,beckasin
+strandstekel,drillsnäppa
+strandstrekel,rödbena
+strandstrepel,mindrevadare snäppa
+strandstrickel,drillsnäppa
+strandstrickel,beckasin
+strandstrickla,drillsnäppa
+strandstrickla,större strandpipare
+strandstrigel,drillsnäppa
+strandstrigel,grönbena
+strandstrikel,drillsnäppa
+strandstrit,drillsnäppa
+strandstrita,rödbena
+strandstritjel,grönbena
+strandstrykare,drillsnäppa
+strandstrykel,större strandpipare
+strandstryttjel,drillsnäppa
+strandsvala,
+strandsölo,strandsvala
+strandvipa,drillsnäppa
+strandvipa,mindre strandpipare
+strandvipa,strandskata
+brednäbbad strandvipa,myrsnäppa
+bågnäbbad strandvipa,spovsnäppa
+föränderlig strandvipa,kärrsnäppa
+isländsk strandvipa,kustsnäppa
+liten strandvipa,små-snäppa
+svartgrå strandvipa,skärsnäppa
+Temmincks strandvipa,mosnäppa
+strandvippa,kärrsnäppa
+strandåd,större strandpipare
+strannlo,grönbena
+strannpipa,se strandpipa
+strannstrick,småvadare (?)
+strekla,sädesäria
+streckla,sädesäria
+strickla,sädesäria även roskarl
+stricklare,sädesäria
+stricklo,drillsnäppa
+strumpvråk,fjällvråk
+struntjager,spetsstjärtad labb
+struts,
+afrikansk struts,
+amerikansk struts.
+europeisk struts,stortrapp
+strutsgök,skatgök
+strymmingshyna,tobisgrissla
+stråand,alfågel
+stråand,stjärtand
+stråare,alfågel
+stråiröv,alfågel
+strömand,
+strömand,småskrake
+strömand,storskrake
+strömgubbe,strömstare
+Strömjan,strömstare
+Strömkalle,strömstare
+strömkarl,strömstare
+strömmingahynä,tobisgrissla
+strömmingshök,fiskmås
+strömmingshöna,tobisgrissla
+strömpräst,strömstare
+strömskata,strömstare
+strömsparv,strömstare
+strömstare,
+strömtrast,strömstare
+strömstrast,strömstare
+stubb-bultare,större hackspett
+stubbe-bultare,större hackspett
+stubbskräckja,storskrake
+stubbsvala,hussvala
+stubbsvala,tornsvala
+stulk,rödbena
+sturk,se stork
+stutand,knipa
+stutskrake,storskrake
+styltlöpare,
+ståbbskrättjo,se stubbskräckja
+stålk,rödbent snäppa
+stäpphök,blek kärrhök
+blek stäpphök,blek kärrhök
+mindre stäpphök,mindre kärrhök
+stäpphöna,
+stäppsparv,
+stäppvipa,
+stäppvråk,falkvråk
+stär,se stare
+stönkråka,spillkråka
+sula,havssula
+gråhuvad sultanhöna,
+brun sumphök,brun kärrhök
+brun sumphök,blå kärrhök
+sumphöna,rörhöna
+småfläckig sumphöna
+sumphöna,sothöna
+grönfotad sumphöna,rörhöna
+liten sumphöna,
+sumpsnäppa,kärrsnäppa
+surhöna,liggsjuk höna
+surre,gärdsmyg
+susduva,skogsduva
+svaga,första årets ungf av ejder även hona utan ägg (jfr skrya o skröja)
+svala,tornsvala
+svalhök,tornsvala
+svan,knölsvan
+liten svan,mindre sångsvan
+svan,sångsvan
+vild svan,sångsvan
+svana,svan
+svangås,
+svans,sidensvans
+svartall,alfågel i sommardräkt
+svarta,se svärta
+svart-and,bergand (?)
+svart-and,sjöorre
+svart-and,svärta
+svartbak,havstrut sillmås
+svartdrast,se svarttrast
+svartfågel,kaja
+svart hackspett,spillkråka
+svarthakedopping,
+svarthalsad dopping,
+svarthattsmave,se svarthätts-
+svarthavre,sjöorre
+svarthuggusparv,sävsparv
+svarthätta,
+svarthätta,svartmes
+svarthätts-mave,skrattmås
+svartklera,koltrast
+svartklädra,koltrast
+svart-kraka,se svart kråka
+svart kråka,
+svart kråka,råka
+Svartlasse,spetsstjärtad labb
+svartmes,
+svartnacke,skrattmås
+svartorr,orre
+svartryggus,större strandpipare
+svartskåre,havstrut
+svartskåre,sillmås
+svartsnäppa,
+svartspett,spillkråka
+svartstare,koltrast
+svartstare,stare
+svartstirra,se -stare
+svartsulu,tornsvala
+svartsvala,tornsvala
+svartsölu,se svartsvala
+svarttita,svartmes
+svarttdrast,koltrast
+svarttrast,stare
+svarttrut,havstrut sillmås
+svartträst,se svarttrast
+svarttärna,
+vitvingad svarttärna,vitvingad tärna
+svenska,grönfink
+svenska,tallbit
+svihök,ormvråk
+svinalortapensel,gråsparv
+svinalotapensel,gråsparv
+svirra,snösparv
+svirrsparv,gråsiska
+svänja,knölsvan
+svärt,svärta (-o)
+svärto,
+svärta,
+vitnackad svärta,
+vitnackad svärto,
+svärta,sjöorre
+svärtgams,svärta
+svärtgubbe,svärta
+svärtkamp,svärta
+svärtkar,svärta
+svärto,sjöorre
+svärtesgams,svärta
+svärtesgubbe,svärta
+svärteskamp,svärta
+svärtkarl,svärta
+svärteskål,svärta
+svärteskårl,svärta
+svärtgås,svärta
+svärti,svärta
+svärtiskvejnda,svärta
+svärtkåla,svärta
+svärtkäring,svärta
+svärtsa,svärta
+svört,svärta
+sydgrissla,sillgrissla
+sydkucku,se under gök
+sylspitt,strandskata
+syring,kärrsnäppa
+syriska,gråsiska
+såarsla,nordlig gulärla
+sådyppa,gulärla
+sådyppa,stjärtmes
+såfalk,göktyta
+såfuggei,gulärla
+såhässla,sädesärla
+brednäbbad sångare,bastardnäktergal
+bröstvattrad sångare,hökfärgadsångare
+gulbröstad sångare,grönsångare
+gulbröstad sångare,bastardnäktergal
+gulmagad sångare,bastardnäktergal
+hökfärgad sångare,
+kungsfågelliknande sångare,vitbrynad lövsångare
+svarthuvad sångare
+sånglärka,
+sångsvan,
+isländsk sångsvan,
+mindre sångsvan,
+sångtrast,taltrast
+sånings-sparv,göktyta
+såsfuggl,gluttsnäppa
+såsparr,ortolansparv
+såtita,göktyta
+såtyta,göktyta
+såvipa,göktyta
+såärla,se såhässla
+säagök,se under gök
+säaknarr,kornknarr
+sädesknarr,kornknarr
+sädestrana,se under trana
+sädesälla,sädesärla
+sädesärla,
+engelsk sädesärla,
+sädesärla,gulärla
+sädgås,
+kontinentens sädgås,sädgås 
+Spetsbergens sädgås,spetsbergsgås
+säing,fiskmås
+säing,tretåig mås
+sälgumse,vittrut
+sälkofsa,vittrut
+säs,havsörn
+gul säsälla,gulärla
+säsärla,sädesärla
+säsäla,nordlig gulärla
+sävsparv,
+sävsparv,sävsångare
+nordisk sävsparv,
+sävstig,sävsångare
+sävstigare,sävsångare
+sävsångare,
+stor sävsångare,trastsångare
+södkucku,se syd-
+söflott,alfågel
+sölsparv,bergfink
+taflacka,prutgås se även tavelak
+taflacka,vitkindad gås
+taggstjärtseglare,taggstjärtad tornsvala
+takbuk,gråsparv
+takbuk,pilfink
+taksvala,tornsvala
+takärla,sädesärla
+grön takärla,gulärla
+talantrast,taltrast
+talandetrast,taltrast
+talgbit,tallbit
+talghacka,kärrmes och nordisk mes
+talghackare,talgoxe
+talghatt,talgoxe
+talgmes,talgox(e)
+talgoxe,
+talgox,blåmes
+talgsmack,talgoxe
+talgsmock,talgoxe
+talgtita,kärrmes talgoxe mfl mesarter
+tallbit,
+tallel-tink,sädesärla
+tallhacka,hackspett
+tallhackare,hackspett
+tallsnut,tallbit
+talltita,namn på många mesasrter främst nordisk mes
+tysk talltita,
+norsk talltita,
+talltjokksa,lavskrika
+talltjykksa,lavskrika
+talltrast,se taltrast
+talprost,taltrast
+taltrast,
+västeuropeisk taltrast,
+taltätting,taltrast
+talutrast,taltrast
+tamduva,se under klippduva
+tamhöns,se under bankivahöns
+tamsvan,knölsvan
+tavelack,prutgås se även taf lacka
+teder,se tjäder
+tedor,se tjäder
+teiste,tobisgrissla
+tejst,tobisgrissla
+teste,tobisgrissla
+täist,tobisgrissla
+tekling,se täckling
+telltjuxa,lavskrika
+tereksnäppa,grå långnäbba
+teta,nordisk mes
+teä,tärna
+tiä,tärna
+Thomas i gärdet,gärdsmyg
+tiira,fisktärna
+tilla,större strandpipare
+tillika,större strandpipare
+tillkorp,göktyta
+tillkorp,spillkråka
+tillkråka,spillkråka
+tillkråko,spillkråka
+tillekråka,spillkråka
+tilkråka,spillkråka
+tippa,höna
+tippeschet,svartmes
+tiro,(fisk)tärna
+tirå,(fisk)tärna
+tirr,dubbeltrast
+tirr,tärna
+tirrilihöna,ljungpipare
+tirrå,fisktärna
+tirro,rödnäbbad tärna
+tirska,hussvala
+tist,se teiste
+tiste,se teiste
+spansk tist,svärta
+spansk tiste,svärta
+titajs,nordisk mes
+tita,alla Parus-arter
+tivipa,tofsvipa
+tivitta,tofsvipa
+tiä,se teä
+tiärp,fisktärna
+tjalk,stormfågel
+tjear,tjäder
+tjedar,se tjäder
+tjekare,stjärtmes
+långstjärtad tjekare,stjärtmes
+tjeksparv,nordisk mes
+tjet,se korvtjet
+tjeta,se pit-tjeta
+tjetare,( se hamp- (h)vit- korv- kärr- tofs-)
+tjetox,talgoxe
+tjetoxe,talgoxe
+tjetsparv,bofink 
+tjetsparv,nordisk mes
+tjockfot,
+tjockfoting,
+tjockmule,tordmule
+tjocknäbb,gråsparv
+tjollp,gråsparv
+tjuv,rödbena
+tjuv,rödnäbbad tärna
+tjuvand,bläsand
+tjuvjo,spetstsjärtad labb
+tjuvmåns,spetstsjärtad labb
+tjyllare,rödbena
+tjytare,rödbena
+tjäckling,gråsparv
+tjäder,
+tjäder-röja,tjäder
+tjäderspänning,duvhök
+tjädur,se tjäder
+tjäka,gärdsmyg
+tjäka,nordisk mes
+tjäll,strandskata
+tjäll,rödbena
+tjälspjäna,sädesärla
+tjälspjärna,sädesärla
+tjälspjärnare,sädesärla
+tjär,se tjäder
+tjäro-svälo,se tjärsvala
+tjärosvöla,se tjärsvala
+tjärnlom,smålom
+tjärsvala,tornsvala
+tjöder,se tjäder
+tobisgrissla,
+töcken,tupp se under bankivahöns
+tofsand,vigg
+tofshöns,se under bankivahöns
+tofsare,sidensvans
+tofsig-man,tofsmes
+tofskottätare,tofsmes
+tofslärka,
+tofslärka,sånglärka
+tofsmes,
+tysk tofsmes,
+tofsmössa,tofsmes
+tofsskarv,toppskarv
+tofssparr,sidensvans
+tofstita,tofsmes
+tofstjekare f,tofsmes
+tofstjetare,tofsmes
+tofsvipa,
+tojle,spillkråka
+tolk,roskarl
+tolk,rödbena
+tolkapiga,drillsnäppa
+tolkapiga,grönbena
+tomlinge,kärrmes
+toppe,se tupp under bankivahöns
+topplärka,sånglärka
+topplärka,tofslärka
+toppmes,tofsmes
+toppnasar,bergand
+toppnasar,vigg
+toppskarv,kråkskarv
+toppsparr,sidensvans
+toppsparv,sidensvans
+toppvipa,tofsvipa
+tord,tordmule
+tordmula,tordmule
+tordmule,
+torkmäulå,tordmule
+formula,tordmule
+tornduva,se under klippduva
+tornfalk,
+amerikansk tornfalk,
+tornkråka,kaja
+tornsvala,
+taggstjärtad,
+tornuggla,
+tornuggla,kattuggla
+torrmule,se tordmule
+Torsböle-almanackan,spillkråka
+Tåorsböl'alnackan,spillkråka
+toärla,sädesärla
+trana,
+egentlig trana,trana
+numidisk trana,jungfrutrana
+stor tranand,storskrake
+tranilla,se tranärla
+tranuella,se tranärla
+tranae,se trana
+tranärla,sädesärla
+trapp,stortrapp
+liten trapp,småtrapp
+trast,
+japansk trast,kinesisk trast
+kinesisk trast,
+sibirisk trast,
+svarthalsad trast,
+trast,sångtrast
+trastsångare,
+tren,se trana
+tre-skorra,se trä-
+tretåspett,se tretåig hackspett
+tre-ägg,tärna
+tre-ägga,tärna
+tri-ägg,tärna
+tri-ägga,tärna
+tridd,tärna
+trollkälling,se skata
+trollkäring,skata
+trollruckla,morkulla
+gulhuvad tropial,
+trubbalka,tordmule
+trubbe,tordmule
+trumduva,se under klippduva
+trut,
+vitvingad trut,
+vitvingad stor trut,vittrut
+trut,fiskmås
+trut,gråtrut
+trut,havstrut
+trut,sillmås
+trutare,sillmås juv 252
+trutpinare,spetsstjärtad labb
+trutrok,havstrut
+trådare,tupp se under bankivahöns
+trårispa,morkulla
+träbilsare,spillkråka
+trädgårdssångare,
+trädknarr,spett (nattskärra?)
+trädkrypare,
+kortkload trädkrypare,
+trädlärka,
+trädpiplärka,
+trädrännare,nötväcka
+trädrännare,trädkrypare
+träd-skämmare,spett
+trädsparv,pilfink
+trädsvala,svart o. vit flugsnappare
+träknårr,spett
+trälus,trädkrypare
+träna,se trana
+tränu,se trana
+träno,se trana
+träskand,vigg
+träskgrip,skäggdopping
+träskkaruda,svarthakedopping
+träsk-knipa,»ett slags knipa»; sannolikt vigg
+träskes-knipa,»ett slags knipa»; sannolikt vigg
+träskkorp,vigg
+träskorr,spillkråka
+träskox,rördrom
+träskorra,spillkråka
+träskoxe,rördrom
+träsksnäppa,dammsnäppa
+träsksångare,kärrsångare
+träsksångare,liten
+gräshoppsångare
+träskurr,se träskorr
+trä-skämmare,se träd-
+träst,se trast
+trönu,se trana
+trönu-el,gulärla
+tulk,rödbena
+tullare,storspov
+tulpare,drillsnäppa
+tumling-liten,gärdsmyg
+tummelett,se under klippduva
+tummeliten,gärdsmyg
+tummeliten,kungsfågel
+tummeliten,lövsångare
+tummeltått,gärdsmyg
+tunderox,lavskrika
+tunderoxe,lavskrika
+tupp,se under bankivahöns
+Sonnerats tupp,se un
+der bankivahöns
+tam tupp,se under bankivahöns
+tuppskräcka,småskrake
+tupsoman,tofsmes
+turemule,tordmule
+turmula,tordmule
+turre,se under bankivahöns
+turtelduva,turturduva
+turturduva,
+större turturduva,
+turturduva,skogsduva
+tusduva,skogsduva
+tuteduva,skogsduva
+tutterduva,ringduva
+tutterduva,skogsduva
+tuvkrypare,lövsångare
+tuvsnäpp,
+tvint,bofink
+tvärmule,tordmule
+tvärspov,rödspov
+tylkråka,spillkråka
+tylla,rödbena
+tyll,skäggdopping
+tylle,större strandpipare
+typpa,höna
+tyrkråka,spillkråka
+tyta,se gök- talg-
+tåfsmyssa,se tofsmössa
+tåjla,se tojle
+tårrkmule,tojle
+tårrkmäulå,tojle
+tårrmul,tordmule
+täckling,gråsparv
+täckling,gulsparv
+täckling,pilfink
+täder,se tjäder
+tälna,tärna
+tärna,se under tärnor
+Dougalls tärna,
+engelsk tärna,
+kentsk tärna,
+rödnäbbad tärna,
+trubbnäbbad tärna,engelsk tärna
+vitvingad tärna
+tärnhök,spetstjärtad labb
+Sabines tärnmås,
+tärvesmula,se tordmule
+tärvesmyla,se tordmule
+täta,svartmes
+tätteltink,sädesärla
+tätting,se gråtätting o gul tätting
+tätting,gråsparv
+tätting,gärdsmyg
+tätting,pilfink
+töddur,tjäder
+törd,tordmule
+törnskata,se vanlig törnskata
+allmän törnskata,vanlig törnskata
+brunryggad törnskata,vanlig törnskata
+grå törnskata,svartpannad törnskata
+rödhuvad törnskata,
+rödnackad törnskata,rödhuvad törnskata
+större törnskata,varfågel
+svartpannad törnskata,
+vanlig törnskata,
+törnsmyg,törnsångare
+törnsångare,
+ubb,berguv
+uggla,
+uggla,kattuggla
+Minervas uggla,
+uppful,härfågel
+uppfugel,härfågel
+urby,berguv
+urhöns,orre
+urre,se orre
+urrmor,se orrmor
+urværsfuggl,snösparv
+uten,berguv
+ut-ut,härfågel
+uv,berguv
+kortörad uv,jorduggla
+uvära,brushane
+vadaresvala,
+svartvingad vadaresvala,
+vadbums,rördrom
+vadbuss,brushane
+vadbuts,brushane
+vaka,tallbit
+vaktel,
+virginisk vaktel,
+vaktel,tallbit
+vaktelkung,kornknarr
+valhök,pilgrimsfalk
+vallgås,sädgås
+vallpiga,enkelbeckasin
+vandringsduva,flyttduva
+vandringsfalk,pilgrimsfalk
+var-and,stjärtand (?)
+vårfågel,
+vassbärare,skärsnäppa
+vasshöna,rörhöna
+vasspol,storspov
+vass-spove,ljungpipare
+vass-stig,trastsångare
+vassvipa,tofsvipa
+vattenhöna,sothöna
+vattenorre,sjöorre
+vattenrall,
+vattenstare,strömstare
+vattensölu,strömstare
+vattensölv,strömstare
+vattensvala,strömstare
+vattensångare,
+vattla,tallbit
+vattnatulk,»vadare»
+vattspole,storspov
+vattuspol,storspov
+vattuspovel,storspov
+vattuspov,storspov
+vattusvala,ladusvala
+vattutrast,strömstare
+veaknarsk,spett
+vedaknarr,spett
+vedhuggare,spett
+vedknark,spett
+vedknarr,spett
+veling,bergand
+ven,se orrvena
+vena,se orrvena
+venu,se orrvena
+ven-spole,se vindspole
+verna,orrhöna
+vesphök,bivråk
+vestolk,rödbena
+via,gräsand
+viand,bläsand
+viand,gräsand
+viand,stjärtand
+viand,vigg
+vidda,vigg
+videsparv,
+rysk videsparv,brunhuvad gulsparv
+vigg,
+viggand,vigg
+vigga,vigg
+vigge,vigg
+viggi,vigg
+viggiskarl,vigg
+viggiskvejnda,vigg
+vigga,vigg
+viggja,vigg
+vilagå,se viljavigå
+vildand,gräsand
+vildduva,klippduva
+vildduva,skogsduva
+vildgås,grågås och sädgås
+vilagå,rödbena
+viljagå,rödbena
+vilavigå,rödbena
+viljavigå,rödbena
+mindre vildsvan,mindre sångsvan
+större vildsvan,sångsvan
+viltgagel,prutgås
+vindfock,tornfalk
+vindpulare,tornfalk
+vinspov,storspov
+vinspole,storspov
+vindspov,storspov
+vindspole,storspov
+vinnare,knipa
+vint,bofink
+vintan-sparv,bofink
+vintande-sparv,bofink
+vinterall,alfågel i vinterdräkt
+vinterfågel,snösparv
+vintergröngölja,gråspett
+vinterhämpling,gråsiska
+vinterhämpling,gulnäbbad hämpling
+vinterpräst,strömstare
+vipa,se kovipa
+vipa,tofsvipa mfl
+vipand,småskrake
+vippand,småskrake
+vippröva,stenskvätta
+vippstjärt,rödstjärt
+vippstjärt,stenskvätta
+vippstjärt,sädesärla
+virand,bläsand
+virsnarp,kornknarr
+Vitagås,ejder
+Vitalisgås,ejder
+vitare,bofink
+vitbak,gråtrut
+vitbuk,bergand
+vitbuk,bläsand
+vitfalk,grönlandsfalk
+vitfågel,måsfåglar
+vitgagel,se vildgås
+vitgjuse,gråtrut
+vitgås,grågås
+vitkind,talgoxe
+vitmås,ismås
+vitpenning,knipa
+vitryggspett,vitryggig hackspett
+viträck,roskarl
+vitsida,knipa
+vitkind,talgoxe
+vitskroko,storskrake
+vitskåre,gråtrut
+vitt,bofink
+vittilt,bofink
+vittjetare,tofsmes
+vittrick,roskarl
+vittring,roskarl
+viträck,roskarl
+vitträck,roskarl
+vittrut,
+liten vittrut,vitvingad trut
+stor vittrut,vittrut
+vitöga,knipa
+vitöga,svärta
+vorr,orre
+vorra,orre
+vorre,orre
+vorrhöna,orr-
+vrakfågel,simfåglar som slå sig ned i flockar (jfr storskrake)
+vrake,vråk
+råke,vråk
+vriand,bläsand och vigg
+vråk,se under vråkar
+fjösbent vråk,
+vråka,vråk
+raka,vråk
+vålspipare,pilgrimsfalk
+vårall,alfågel i vårdräkt
+våskära,skäggdopping
+vörtrast,björktrast
+vårtrast,taltrast
+vår-tyta,göktyta
+våskära,skäggdopping
+våtakaja,vanlig glada
+våtasa,gröngöling
+våtkråka,spillkråka
+väckla,tallbit
+väderfjuckare,tornfalk
+väderfuckare,tornfalk
+väderfjåkare,tornfalk
+vedærfjåkar,tornfalk
+väderfåkare,tornfalk
+vädergås,storlom
+väderknullare,tornfalk
+väderpfältare,tornfalk
+väderpjält,tornfalk
+väderpulare,tornfalk
+väderspole,småspov
+väderspole,storspov
+väderspåman,spett
+väderuggla,»som ute på havet slår till på ett skepp för att vila»
+väggsvala,hussvala
+väktare,vårfågel
+vänjeduva,se under klippduva
+vänjefågel,som flere år å rad återkommer till samma plats
+värgeta,enkelbeckasin
+värgås,se vädergås
+värknullare,se väder-
+värpanhöna,värphöna
+värpandehöna,värphöna
+värpemåve,fiskmås
+värre,orre
+västkucku,se under gök
+västäräkki,sädesärla
+vörr,orre
+vörtrast,björktrast
+vöschpipare,pilgrimsfalk
+wachtelen,
+ynn,orre
+åd,ejder
+ådo,ejder
+åda,ejder
+åddersparv,gråsiska
+ådfågel,ejder
+ådgubbe,ejder
+ådesgubbe,ejder
+ådkäring,ejder
+ådkärling,ejder
+ådeskäring,ejder
+ådeskärling,ejder
+ådra,se åda
+ådskraka,»en sjöfågel»
+ådskraksnisse,»en sjöfågel»
+åd-skrya m.fl.,ejder
+hona,som berövats sina ägg
+åga,se åda
+ågubbe,ejderhane
+ågubbe,strömstare
+åkerand,gräsand
+åkerbräko,kornknarr
+åkerduva,skogsduva
+åkergnark,kornknarr
+åkerhöna,kornknarr
+liten åkerhöna,fjäll pipare
+åkerhöna,ljungpipare
+åkerhöna,rapphöna
+åkerhöna,vaktel (?)
+åkerhöns,se -höna
+åkerjamon,fjällpipare ljungpipare (?)
+åkerjärp,rapphöna
+åkerjärpe,rapphöna
+åkerknark,kornknarr
+åkerknarr,kornknarr
+åkerknärpa,kornknarr
+åkerlärka,sånglärka
+åkerreka,kornknarr
+akorreka,kornknarr
+åkersjäro,se åkerskära
+åkerskrika,nötskrika
+åkerskräxa,kornknarr
+åkerskära,kornknarr
+åkersnarp,kornknarr
+åkersnarpa,kornknarr
+åkertupp,ljungpipare
+åkorskräxa,se åker-
+ålkrok,storskarv
+ålkråka,skäggdopping
+ålkråka,storskarv
+ånn,and
+ålskrika,nötskrika
+årbleg,se ärbleg
+årder,se ard
+årn,kungsörn
+årpinne,sparvuggla
+årr,alfågel
+årta,
+amerikansk årta,
+årta,kricka
+årtand,årta
+årtbonde,alfågel
+ädelfasan,se under fasan
+äderkong,praktejder
+ägretthäger,(stor) vit häger
+äjder,se ejder
+äktergal,se näktergal
+älla,ärla
+Älun,spetsstjärtad labb
+äm-and,smalnäbbad
+simsnäppa
+ängknarr,kornknarr
+änglärka,ängpiplärka
+ängpiplärka,
+rödstrupig ängpiplärka,rödstrupig piplärka
+ängsduva,ringduva
+ängshök,mindre kärrhök
+ängsknarr,kornknarr
+ängspiplärka,se äng-
+rödstrupig ängspiplärka,rödstrupig piplärka
+ängsskära,kornknarr
+ängsskärra,kornknarr
+ängssnärpa,kornknarr
+ängsspillinta,gulärla
+ängsstenskvätta,buskskvätta
+änjisstenskvätta,buskskvätta
+är,ejder gammal hona
+ära,ejder gammal hona
+ärbleg,ejder
+ärbult,ejder gammal hane
+äregusse,ejder gammal hane
+ärfågel,ejder
+äringsfogel,kornknarr
+ärla,sädesärla o koll
+grå ärla,sädesärla o koll
+långstjärtad ärla,gråärla
+ärre,se orre
+ärrkråka,kråka
+ärta,se arta
+ärteknarr,kornknarr
+ärtsjua,nattskärra
+ärtesjua,nattskärra
+ärtfågel,ärtsångare
+ärtkokare,nattskärra
+ärtsjuda,nattskärra
+ärtsjuare,nattskärra
+ärtsjudare,nattskärra
+ärtsmyg,ärtsångare
+ärtsångare,
+äugle,se uggla
+ögla,se uggla
+ökenlöpare,
+ökenstenskvätta,
+ölmt,svan
+ömmer,islom
+öns,se höns
+ör,se orre
+öra,se orre
+örn,se under örnar
+fläckig örn,mindre skrikörn
+örn,fiskgjuse
+örn,havsörn
+örn,kungsörn
+örnglada,fiskgjuse (?)
+örnvråk,
+örondopping,svarthakedopping
+örra,alfågel
+örr,se orre
+örre,se orre
+östkucku,se under gök
+ötjeteta,drillsnäp
