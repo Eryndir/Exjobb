@@ -1,0 +1,23 @@
+23:43:08,581 root INFO Program start
+23:43:08,581 root INFO Dialectic bird list selected
+23:43:08,586 root INFO options: ['/home/tmpuser/code/Exjobb-main/pipeline/pipeline.py', '1990', '1', '0']
+23:44:09,211 root INFO Loaded in the data
+23:44:10,389 root INFO Started indexing
+23:44:10,389 root INFO Save index: 0
+00:17:35,479 root INFO Done with indexing
+00:17:35,487 root INFO Start calculating 
+00:17:36,340 root INFO Done with calculating
+00:17:36,362 root INFO Written freq and count to file
+00:17:36,362 root INFO 1990s for dialect done
+15:24:10,294 root INFO Program start
+15:24:10,301 root INFO Small bird list selected
+15:24:10,304 root INFO options: ['/home/tmpuser/code/Exjobb-main/pipeline/pipeline.py', '1990', '0', '1', '0']
+15:25:11,44 root INFO Loaded in the data
+15:25:11,407 root INFO Started indexing
+15:25:11,407 root INFO Save index: 1
+16:05:40,383 root INFO Saving index
+16:05:40,579 root INFO Done with indexing
+16:05:40,580 root INFO Start calculating 
+16:05:40,717 root INFO Done with calculating
+16:05:40,722 root INFO Written freq and count to file
+16:05:40,723 root INFO 1990s for small done

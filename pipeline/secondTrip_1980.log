@@ -1,0 +1,77 @@
+22:43:02,202 root INFO Program start
+22:43:02,202 root INFO Dialectic bird list selected
+22:43:02,206 root INFO options: ['/home/tmpuser/code/Exjobb-main/pipeline/pipeline.py', '1980', '1', '0']
+22:44:01,556 root INFO Loaded in the data
+22:44:02,781 root INFO Started indexing
+22:44:02,781 root INFO Save index: 0
+23:17:30,318 root INFO Done with indexing
+23:17:30,320 root INFO Start calculating 
+23:17:31,150 root INFO Done with calculating
+23:17:31,185 root INFO Written freq and count to file
+23:17:31,185 root INFO 1980s for dialect done
+15:31:33,941 root INFO Program start
+15:31:33,948 root INFO Small bird list selected
+15:31:33,951 root INFO options: ['/home/tmpuser/code/Exjobb-main/pipeline/pipeline.py', '1980', '0', '0', '1']
+15:32:34,183 root INFO Loaded in the data
+15:32:34,526 root INFO Started indexing
+15:32:34,526 root INFO Save index: 0
+15:34:55,604 root INFO Done with indexing
+15:34:55,612 root INFO Start calculating 
+15:37:31,6 root INFO Done with calculating
+15:37:31,12 root INFO Starting building bertopic model
+15:37:31,12 sentence_transformers.SentenceTransformer INFO Use pytorch device_name: cuda
+15:37:31,12 sentence_transformers.SentenceTransformer INFO Load pretrained SentenceTransformer: KBLab/sentence-bert-swedish-cased
+15:37:31,29 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): huggingface.co:443
+15:37:31,177 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/modules.json HTTP/1.1" 200 0
+15:37:31,315 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+15:37:31,453 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/README.md HTTP/1.1" 200 0
+15:37:31,588 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/modules.json HTTP/1.1" 200 0
+15:37:31,757 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+15:37:31,891 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/config.json HTTP/1.1" 200 0
+15:37:32,197 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): huggingface.co:443
+15:37:32,343 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/model.safetensors HTTP/1.1" 404 0
+15:37:32,735 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+15:37:33,85 urllib3.connectionpool DEBUG https://huggingface.co:443 "GET /api/models/KBLab/sentence-bert-swedish-cased/revision/main HTTP/1.1" 200 4192
+15:37:33,224 urllib3.connectionpool DEBUG https://huggingface.co:443 "GET /api/models/KBLab/sentence-bert-swedish-cased HTTP/1.1" 200 4192
+15:55:38,88 root INFO Program start
+15:55:38,88 root INFO Small bird list selected
+15:55:38,90 root INFO options: ['/home/tmpuser/code/Exjobb-main/pipeline/pipeline.py', '1980', '0', '0', '1']
+15:56:36,280 root INFO Loaded in the data
+15:56:36,595 root INFO Started indexing
+15:56:36,595 root INFO Save index: 0
+15:57:11,382 root INFO Program start
+15:57:11,382 root INFO Small bird list selected
+15:57:11,384 root INFO options: ['/home/tmpuser/code/Exjobb-main/pipeline/pipeline.py', '1980', '0', '0', '1']
+15:57:42,590 root INFO Loaded in the data
+15:57:42,933 root INFO Started indexing
+15:57:42,933 root INFO Save index: 0
+15:58:33,734 root INFO Done with indexing
+15:58:33,734 root INFO Start calculating 
+15:59:24,780 root INFO Done with calculating
+15:59:24,783 root INFO Starting building bertopic model
+15:59:24,783 sentence_transformers.SentenceTransformer INFO Use pytorch device_name: cuda
+15:59:24,783 sentence_transformers.SentenceTransformer INFO Load pretrained SentenceTransformer: KBLab/sentence-bert-swedish-cased
+15:59:24,785 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): huggingface.co:443
+15:59:24,920 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/modules.json HTTP/1.1" 200 0
+15:59:25,266 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+15:59:25,397 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/README.md HTTP/1.1" 200 0
+15:59:25,737 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/modules.json HTTP/1.1" 200 0
+15:59:25,877 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+15:59:26,4 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/config.json HTTP/1.1" 200 0
+15:59:26,80 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): huggingface.co:443
+15:59:26,438 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/model.safetensors HTTP/1.1" 404 0
+15:59:26,762 urllib3.connectionpool DEBUG https://huggingface.co:443 "HEAD /KBLab/sentence-bert-swedish-cased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+15:59:26,963 urllib3.connectionpool DEBUG https://huggingface.co:443 "GET /api/models/KBLab/sentence-bert-swedish-cased/revision/main HTTP/1.1" 200 4192
+15:59:27,100 urllib3.connectionpool DEBUG https://huggingface.co:443 "GET /api/models/KBLab/sentence-bert-swedish-cased HTTP/1.1" 200 4192
+16:08:21,321 root INFO Program start
+16:08:21,321 root INFO Small bird list selected
+16:08:21,324 root INFO options: ['/home/tmpuser/code/Exjobb-main/pipeline/pipeline.py', '1980', '0', '1', '0']
+16:08:56,236 root INFO Loaded in the data
+16:08:56,562 root INFO Started indexing
+16:08:56,562 root INFO Save index: 1
+16:12:19,119 root INFO Program start
+16:12:19,119 root INFO Small bird list selected
+16:12:19,121 root INFO options: ['/home/tmpuser/code/Exjobb-main/pipeline/pipeline.py', '1980', '0', '1', '0']
+16:12:57,770 root INFO Loaded in the data
+16:12:58,101 root INFO Started indexing
+16:12:58,101 root INFO Save index: 1
